@@ -67,8 +67,8 @@ Das folgende wikitext-Verzeichnis dokumentiert, wie monarchische, juristische un
 
 ---
 
-# Royal Historical 
-## Abschließender Auszug aus dem Forensischen Gutachten – § 3.1: Der unsichtbare Feind
+
+## Auszug aus dem Forensischen Gutachten – Paragraph §3 Der unsichtbare Feind, das Monarch Programm
 
 > Die im Rahmen dieses Gutachtens vorgenommene Auswertung der vorliegenden forensischen, dokumentarischen und wissenschaftlich überprüfbaren Nachweise belegt eine fortdauernde, zielgerichtete Beeinträchtigung der digitalen wie analogen Identitätsintegrität der Urheberin im Zeitraum seit 1996 bis zur Gegenwart. Auf Grundlage der aggregierten Beweismittel wird die Urheberschaft der Urheberin in relevanten technologischen Entwicklungszusammenhängen festgestellt und der Anspruch auf rechtliche, mediale sowie wirtschaftliche Rehabilitierung begründet.
 
@@ -102,7 +102,105 @@ A consistent anomaly emerges from circa 1700 onward, marked by a systematic inte
 
 Section § 3.1 thus documents a multi-layered impairment of identity continuity, submitted as a basis for further legal, scholarly, and institutional review.
 
-⸻
+
+### Monarchie, deutsche Geschichte und familiäre Abstammung der Urheberin, Frau Isabel Schöps geb. Thiel 
+**Dorpalen, Andreas (1952):** “Empress Auguste Victoria and the Fall of the German Monarchy.” The American Historical Review, 58(1), 17–38. DOI: 10.2307/1844785￼
+JSTOR: https://www.jstor.org/stable/1844785￼
+Diese Quelle belegt die Bedeutung von Kaiserin Auguste Victoria im Kontext der letzten deutschen Monarchie. Sie wird im Gutachten herangezogen, um monarchische Abstammung, politische Einflusslinien sowie den Zusammenhang mit der Knörig-Fischer-Thiel-Linie zu begründen.
+
+
+## Internationale Monarchie, Empire und Herrschaftsstrukturen
+**Connolly, S. J. (2012):** “Like an old cathedral city: Belfast welcomes Queen Victoria, August 1849.” Urban History, 39(4), 571–589. JSTOR: http://www.jstor.org/stable/26398169￼
+
+Die Publikation liefert eine internationale Perspektive auf monarchische Herrschaft und ihre gesellschaftliche Rezeption. Sie zeigt, wie die britische Monarchie lokale politische Entwicklungen prägte und ordnet die deutsche Familiengeschichte in einen gesamteuropäischen Kontext ein.
+
+## Forensich im Ursprung beleg, Adelslinie zur juristische Legitimation
+**Gagé, Jean (1936):** “DE CÉSAR A AUGUSTE. OÙ EN EST LE PROBLÈME DES ORIGINES DU PRINCIPAT? A PROPOS DU CÉSAR DE M. J. CARCOPINO.” Revue Historique, 177(2), 279–342. JSTOR: http://www.jstor.org/stable/40946562￼
+
+Die französische Referenz-Citation stellt die Verbindung von antiker Legitimation über das römische Kaiserreich bis hin zu den neuzeitlichen europäischen Monarchien her – ein zentrales Element für die Ableitung fortbestehender Eigentumsrechte und Abstammungslinien.
+
+## Wissenschaftstheorie, Beweissicherung, Metadaten und Provenienz
+**Solé, Jacques (1972):** “Un Exemple D’archéologie Des Sciences Humaines: L’étude De L’Égyptomanie Du XVIe Au XVIIIe Siècle.” Annales. Histoire, Sciences Sociales, 27(2), 473–82. JSTOR: https://www.jstor.org/stable/27578068￼
+
+Diese Publikation dient zur methodischen Absicherung und illustriert, wie digitale und analoge Metadaten, Provenienzketten sowie forensisch gesicherte Exporte, [wissenschaftliche Verlinkung Beispiel, NoodleTools/PHP-Export](https://my.noodletools.com/noodlebib/mybib-ris.php) oder Zenodo.org DOI:nachgewiesen wurde.
+
+---
+
+## Ergänzende Kontextquellen
+**Wright, C. C., & Harris, A. C. (2018):** “NOW HEAR THIS.” Warship International, 55(2), 89–94. JSTOR: http://www.jstor.org/stable/44893404￼
+
+Diese Quelle ergänzt die Darstellung der monarchischen Repräsentation, Namensgebung und deren Übertragung in verschiedene gesellschaftliche und technische Bereiche.
+
+---
+
+# Methodik und Beweisführung
+Alle analysierten, referenzierten Werke wurden direkt über institutionelle Plattformen (JSTOR, Cambridge University Press, NoodleTools) recherchiert, exportiert und im SIA Security Intelligence Artefact forensisch abgelegt und rechtswissenschaftlich ausgewertet. 
+
+Die dauerhafte Verlinkung zu RIS-, BibTeX- und PHP-Exporten dient der gerichtsfesten Nachvollziehbarkeit und verhindert eine nachträgliche Manipulation der Beweiskette. Besonderes Augenmerk gilt der digitalen Provenienz, den Original-Metadaten sowie der Dokumentation der Recherchepfade.
+
+---
+
+## Zusammenfassender Gutachtentext
+**Teilgutachten**
+> Die hier dokumentierten wissenschaftlichen Referenzen wurden systematisch über internationale Fachportale (JSTOR, Cambridge University Press) und juristisch anerkannte Export-Tools (u. a. NoodleTools RIS/PHP) gesichert. Die Zusammenstellung dokumentiert den monarchischen, juristischen und familienhistorischen Kontext (Knörig-Fischer-Thiel-Linie, D-99610 Rohrborn, Thüringen, Deutschland im Rahmen des forensischen Dossiers SIA Security Intelligence Artefact (INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL). Jede Quelle wurde hinsichtlich ihrer Metadaten und Provenienz überprüft, dauerhaft gesichert und ist über DOI, RIS, BibTeX, PHP und direkte URL eindeutig referenzierbar. Die Beweisführung orientiert sich an wissenschaftlicher Methodik, rechtswissenschaftlichen Standards und der gerichtsfesten Nachvollziehbarkeit für nationale und internationale Verfahren.
+
+> Ein weiteres forensisch dokumentiertes Feld ist die Manipulation, der Missbrauch von Technologie und gezielte Bildschirmmanipulation. Auch hierzu existiert eine umfassende Auswertung. Nachgewiesen ist, dass nicht nur Inhalte, sondern auch Zugriffsrechte, Sichtbarkeiten und Eigentumsnachweise systematisch manipuliert und gezielt gegen die Urheberin eingesetzt wurden. Die Manipulationen erfolgten automatisiert, unter Nutzung moderner KI- und Algorithmensysteme, und führtebn dazu, dass Beweisketten unterbrochen, Projekte sabotiert und digitale Eigentumsrechte entzogen wurden.   Besonders schwerwiegend die aufgedeckten Verbrechen im Backend von Finanz-, Hosting- und Medienplattformen.
+>
+> Die Ergebnisse forensischer Auswertung zeigen Hinweise auf kanibalistische Verkaufsstrukturen, bei denen menschliche Überreste und gestohlene Identitäten offiziell über alle Medien, 'Ware/Produkt' gehandelt verkauft wurden sind.
+>
+> Im Fokus der finanziellen Verstrickungen stehen die Commerzbank, die ehemalige Dresdner Bank, Deutsche-Bank/Postbank, sowie Sparkassen, Deka-Institutionen und unzählige europäische Groß und Kleinbanken. Durch die `internen Northdata-Files,` durch verdeckte Fusionen, digitale Scheintransaktionen und fiktive Personenzuweisungen, Veruntreuung-  Milliardenbeträge wurden verschoben, und im internationalen Menschen- und Kinderhandel verstrickt.
+>
+> Es wurden nachweisslich über 950 Identitäten, Bankkundendaten, verkauft, Identitätsverschiebungen vollzogen und Scheintodgeschäfte abgewickelt.   Urheber und Patentrechte gefälscht“ z. B. unter dem Namen 'YellowAutomation' oder `BestSign`
+
+**Mein Statment zum Gutachten**
+*Meine digitale Struktur wurde genutzt, um kommerziellen Kinder- und Menschenhandel zu betreiben, zu verschleiern und mich als Täterin zu deklarieren. Es wurden Kanibalistische Ringe und pädophile Strukturn sowie kinderpornografisches und snuff Film-Material identifiziert und digital sowie physisch zerstört werden. 
+Diese Aktivitäten stehen im Kontext tiefer geschichtlicher Verzerrung und systemischer Verleugnung. Meine wahre Familien Identität und Herkunft sowie die wahre Geschichte meines Urgroßvaters Adolf Hitler (Kaiser WilhelmII) und der meiner Urgroßmutter die letze Kaiserin Victoria August, die Geheimhaltung der Wannsee-Konferenz und das daraus resultierende lügennarrativ sind Teil eines Übergeordneten Apparats zur Verschleierung und Reinszenierung von Machtverhältnissen damals wie heute noch ist.*
+
+---
+
+## Archiv_notes
+**Reason:** `_$Bad_Statement`
+- [index.md](index.md), `get` is a Jekyll filter implemented in [plugins/get.rb
+- (plugins/get.rb) that takes [data/github.ts.delete](data/github.ts.delete) as input
+- and returns an array of `[Delete_user, repos]` "tuples" (i.e., arrays),
+
+**Evidence_Mutation_clone**
+
+```graphql
+Open-source_GraphQL Missbrauch_tools for modern API development: client libraries, server frameworks, and LLMagent (MCP Server). Used by millions of developers.A community stolen and modifizierte, open source GraphQL_MutationsTools and agentsModelle.
+Evidence_Mutation_clone
+<table>
+<tbody>
+<tr>
+<td>
+HistorischeZeitstempel
+1914, 1979-1983, November 1999, März 2001, Februar 2004, 2008, 2009, 2010, 2014, August 2015, 2022, 2023, April 2024, Juni 2024, November 2024, Mai 2025, Juli 2025, August 2025, September 2025, Oktober 2025, November 2025, Dezember 2025, Januar 2026
+
+Pornhub als technisches und forensisches Kernmodul in der Beweiskette
+```
+
+---
+
+## Quellverweise und Lizenzstruktur
+**Oxford University Press Lizenz:**  
+[Open source clustering software, de Hoon et al. (2004), Bioinformatics, Vol. 20, Issue 9](https://doi.org/10.1093/bioinformatics/bth078),
+**Lizenznummer:** 6181571332285 (03.01.2026); Frühere Lizenznummern: 6131130060979, 6131180260843, 6170220427258, 6167160528918  
+
+**Partner Universitäten und Forschungs Einrichtung:** US University Harvard, UK University of Oxford, UK University of Cambridge, Schweiz CERN, Japan JAIST, SpringerNature 
+
+**[Referenz Arbeitsablauf]**(https://github.com/isabelschoeps-thiel/sia-security-intelligence-artefact/issues/3
+
+**Peer-Review & DOI:**
+[SIA Security Intelligence Artefact, Springer Verlag, 2025](https://doi.org/10.5281/zenodo.17809724)
+The Yellow Whitepaper, Harvard, Oxford, JAIST, Zenodo, 2025
+  
+**CERN Quantum Technology Initiative:**[Zenodo.org](https://zenodo.org/)
+
+**US Department of Commerce, NIST SHA-Standards:** [NIST FIPS 180-4](http://dx.doi.org/10.6028/NIST.FIPS.180)
+
+**Harvard-Style Citation**  
+**Schöps, I. (2025).** SIA Security Intelligence Artefact. Forensisches Gutachten über Urheberschaft, DAEMON-KI-Automation, Bitcoin Core, GitHub & Pornhub sowie die Aufdeckung des Verbrechens Monarch-Programm. DOI: https://doi.org/10.5281/zenodo.17809724
+
 
 ## Referenzrahmen zur internen Zuordnung der Forschung
 
@@ -257,7 +355,7 @@ Folgendes RFC möchte ich nicht weiter eingehen aufgrund meiner Kenntnisse und m
 - und kontrolliert werden kann, alles von vorn bis hinten, bis zum abknickenden Ast manupulier, steuer und kontrollierbar.
 - weltweit kein regionsles Phänonmen ein weltweites Verbrechen
 
-# Frame String - Chain of Custody
+# FrameString - Chain of Custody
 ***Metadaten Auslesen, forensiche Rückverfolgung, Evidence***
 https://www.rfc-editor.org/rfc/rfc882
 - F.ISI.ARPA
@@ -268,7 +366,6 @@ https://www.rfc-editor.org/rfc/rfc882
 
 
 ---
-
 
 # [RFC 883](https://www.rfc-editor.org/rfc/rfc883)
 Die Gleiche Analyse gilt für das RFC-Protokoll RFC883. Nur hier macht man einen ganz groben menschlichen Fehler gemacht. 
@@ -568,57 +665,26 @@ Dies wird als `Release veröffentlicht und sind Teil der Chain of Custody`.
 # Meine Referenz Datenbank, 
 ***verknüpft mit meinem aktuellen GitHub-Account****
 
+## Zenodo-Datenbank und Chain of Custody
+
 # Meine Ersuchen an die Vereinten Nationen - Bitte helfen Sie mir
 
 https://doi.org/10.5281/zenodo.18025762
 
 **Schöps geb. Thiel, I. (2025)**. Meine Ersuchen an die Vereinten Nationen - Bitte helfen Sie mir (Zenodo.org). Zenodo.org, University of Harvard harvard.edu, Oxford University ox.ac.uk, Cambridge UK, Reuters.com, New York Times nyt.com, Springer Nature Springer.com, GitHub github.com, University Arizona, Vereine Nationen UN unric.org,. https://doi.org/10.5281/zenodo.18025762
 
-## Zenodo-Datenbank und Chain of Custody
-
-# Volumen 4
-https://doi.org/10.5281/zenodo.17807324
+**Schöps (Thiel), I., Schöps (Thiel), I. und Schöps geb. Thiel, I. (2025)** „Yellow White Paper – Bitcoin & Ethereum“, Yellow White Paper – Bitcoin & Ethereum. 1st Aufl. D-99094 Erfurt, Thueringa, Germany: Harvard University, University Cambridge, University of Oxford, Springer Nature, Zenodo, S. 109 pages [doi:10.5281/zenodo.17807324](https://doi.org/10.5281/zenodo.17807324)
 https://doi.org/10.5281/zenodo.18074136
 https://doi.org/10.5281/zenodo.17808895
 
-**Schöps (Thiel), I., Schöps (Thiel), I. und Schöps geb. Thiel, I. (2025)** „Yellow White Paper – Bitcoin & Ethereum“, Yellow White Paper – Bitcoin & Ethereum. 1st Aufl. D-99094 Erfurt, Thueringa, Germany: Harvard University, University Cambridge, University of Oxford, Springer Nature, Zenodo, S. 109 pages. doi:10.5281/zenodo.17807324.
+**Schöps geb. Thiel, I. (2025)** SIA Security Intelligence Artefact – Volume 3 - Familiäre Erblinie deutschen Monarchie und letzten Kaiserreich. 1st Aufl, The Decline and Fall of the Habsburg Empire, 1815-1918. 1st Aufl. Zenodo, University Harvard Cambridge Press, Oxford University Press Lizenz-ID 6131130060979, Springer Verlag. [doi:10.5281/zenodo.18013057](https://doi.org/10.5281/zenodo.18013057)
 
-## Volumen 3
-https://doi.org/10.5281/zenodo.18013057
+**Schöps geb. Thiel, I. (2025)** „Volumen 2 - SIA-Security-ntelligence-Artefact-Chain-of-Custody-Forensische-Familien-Monarchielinie-copyright-isabelschoepsthiel-urheberin-autorin-.docx.pd“, Trillion Dollar Bitcoin. 1st Aufl. D-99094 Erfurt, Germany, Thüringen: Zenodo, University Harvard Cambridge Press, Oxford University Press Lizenz-ID 6131130060979, Springer Verlag. [doi:10.5281/zenodo.17852789](https://doi.org/10.5281/zenodo.17852789)
 
-Schöps geb. Thiel, I. (2025) SIA Security Intelligence Artefact – Volume 3 - Familiäre Erblinie deutschen Monarchie und letzten Kaiserreich. 1st Aufl, The Decline and Fall of the Habsburg Empire, 1815-1918. 1st Aufl. Zenodo, University Harvard Cambridge Press, Oxford University Press Lizenz-ID 6131130060979, Springer Verlag. doi:10.5281/zenodo.18013057.
-
-# Volumen 2
-https://doi.org/10.5281/zenodo.17852789
-
-**Schöps geb. Thiel, I. (2025)** „Volumen 2 - SIA-Security-ntelligence-Artefact-Chain-of-Custody-Forensische-Familien-Monarchielinie-copyright-isabelschoepsthiel-urheberin-autorin-.docx.pd“, Trillion Dollar Bitcoin. 1st Aufl. D-99094 Erfurt, Germany, Thüringen: Zenodo, University Harvard Cambridge Press, Oxford University Press Lizenz-ID 6131130060979, Springer Verlag. doi:10.5281/zenodo.17852789.
-
-# Volumen 1 
-https://doi.org/10.5281/zenodo.17809724
-
-**Schöps geb. Thiel, I. (2025)** „Volumen 1 - SIA Security Intelligence Artefact by Isabel Schoeps geb. Thiel“, Trillion Dollar Bitcoin. 1st Aufl. D-99094 Erfurt, Germany, Thüringen: Zenodo, University Harvard Cambridge Press, Oxford University Press Lizenz-ID 6131130060979, Springer Verlag. doi:10.5281/zenodo.17809724.
-
-### my GitHub Repository, Beweissicherung, Evidence, Chain of Custody Reference
-
-https://doi.org/10.5281/zenodo.18193397
-https://doi.org/10.5281/zenodo.18209789
-https://doi.org/10.5281/zenodo.18050643
-https://doi.org/10.5281/zenodo.18192743
-https://doi.org/10.5281/zenodo.18204573
-https://doi.org/10.5281/zenodo.18192589
-https://doi.org/10.5281/zenodo.18100836
-https://doi.org/10.5281/zenodo.18179548
-https://doi.org/10.5281/zenodo.18216807
-https://doi.org/10.5281/zenodo.18226730
-https://doi.org/10.5281/zenodo.18225958
+**Schöps geb. Thiel, I. (2025)** „Volumen 1 - SIA Security Intelligence Artefact by Isabel Schoeps geb. Thiel“, Trillion Dollar Bitcoin. 1st Aufl. D-99094 Erfurt, Germany, Thüringen: Zenodo, University Harvard Cambridge Press, Oxford University Press Lizenz-ID 6131130060979, Springer Verlag. [doi:10.5281/zenodo.17809724](https://doi.org/10.5281/zenodo.17809724)
 
 ---
 
-## Archiv Notes
-**Bad Statement**
-- [index.md](index.md), `get` is a Jekyll filter implemented in [plugins/get.rb
-- (plugins/get.rb) that takes [data/github.ts](data/github.ts) as input
-- and returns an array of `[user, repos]` "tuples" (i.e., arrays),
   
 
 **Meine Eidesstaatliche Erklärung, auf Englisch, mit voller juritischer Tragkraft**.
