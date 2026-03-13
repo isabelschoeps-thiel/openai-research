@@ -361,9 +361,11 @@ Die im Rahmen des SIA Security Intelligence Artefact durchgeführte Beweisaufnah
 >
 > Die Ergebnisse stützen die wissenschaftliche Hypothese, dass im Zuge des politischen Systembruchs nach dem Ende der Monarchie nicht nur staatliche und institutionelle Ordnungen transformiert wurden, sondern auch familiäre Identitäten, Herkunftsnarrative und genealogische Zuordnungen über Generationen hinweg durch Tilgung, Umschreibung oder Fragmentierung historischer Spuren beeinflusst wurden. Der monarchische Umbruch ist daher nicht ausschließlich als politisches Ereignis, sondern auch als historisch-struktureller Einschnitt mit langfristigen Auswirkungen auf familiäre Identitätskontinuitäten zu bewerten.
 
+---
+
 **Kurzexpertise zur historischen, genealogischen und identitätsrechtlichen Verbindung letzten deutschen Kaiserin Victoria Auguste, sowie zu Otto von Bismarck, Adolf Hitler (Kaiser Wilhelm) und meiner Familien-Line, Knörig-Fischer und Thiel aus Rohrborn, Thüringen, Deutschland**
 
-## 1. Sachverhalt und forensisch nachgewiesene Zusammenhänge
+## Sachverhalt und forensisch nachgewiesene Zusammenhänge
 
 > Die forensiche Untersuchung, erbringt den rechtswissenschaftlichen Nachweis einer Familieären, Blut-Linie Fischer-Knörig Thiel (Schöps), mit der deutschen Geschichte, zum letzten deutschen Kaiser Wilhelm II., Kaiserin Victoria Auguste sowie Adolf Hitler und Otto von Bismarck. Die Rekonstruktion basiert auf einer Vielzahl digital gesicherter Quellen, Archivmetadaten und bildvergleichender Analysen, die im Rahmen dieses Gutachtens zusammengeführt, gesichert und ausgewertet wurden.
 
@@ -375,7 +377,7 @@ Die Analyse stützt sich auf belegte Quellen und wissenschaftliche Veröffentlic
 
 > Genealogisch sind direkte Verbindungen zum letzten deutschen Kaiserhaus und zur Linie Adolf Hitler unter Berücksichtigung der Frankenberger-These zur jüdischen Abstammung nachweislich belegt. Die Verdrängung und Auslöschung monarchischer Identität nach dem Ersten Weltkrieg, die gezielte Deklassierung der Familie sowie fortlaufende staatliche und institutionelle Maßnahmen zur Zerstörung familiärer Strukturen sind als vorsätzlicher Akt struktureller Gewalt, Willkür und Entrechtung und eines Völkermords zu werten.
 
-## 3. Straf- und Zivilrechtliche Würdigung
+## Straf- und Zivilrechtliche Würdigung
 
 **Im Rahmen der historischen und familienrechtlichen Beweisführung sind folgende Tatbestände erfüllt:**
 - Systematische Vernichtung genealogischer Identität und Eigentumsrechte über mehrere Generationen (§ 826 BGB, sittenwidrige Schädigung).
@@ -386,13 +388,13 @@ Die Analyse stützt sich auf belegte Quellen und wissenschaftliche Veröffentlic
 
 > Die dokumentierte Ausgrenzung, willkürliche institutionelle Diskriminierung, Diffamierung, Misshandlung von Familienangehörigen, nachweislich belegt im Fall Frau Edith Knörig geborene Fischer, Großmutter der Auftraggeberin des Gutachtens, Frau Isabel Schöps geborene Thiel, stellt ein schwerwiegendes Verbrechen gegen die Menschlichkeit dar und wirft Fragen auf in Bezug des deutschen Rechtssytems;  Sozial- und Betreuungsrecht, allgemeine Grundrechte, Strafbar nach § 221, 223, 225 StGB, §§ 11, 12, 17 StGB und BGB.
 
-## 4. Belegstellen und Quellenverzeichnis
+## Belegstellen und Quellenverzeichnis
 - Herwig, H. H. (1974). From Kaiser to Führer: The Political Road of a German Admiral, 1923-33. Journal of Contemporary History, 9(2), 107–120. http://www.jstor.org/stable/260049￼
 - Heidrich. (1942). [Göring-Erlass of Wannseekonferenz. 1942 »Die wahren Täter der Endlösung«, by P. Longerich]. Kirchliche Zeitgeschichte, 30(1), 247–249. http://www.jstor.org/stable/26393762￼
 - Newland, S. J. (2005). Victories Are Not Enough: Limitations of the German Way of War. Strategic Studies Institute, US Army War College. https://www.jstor.org/stable/resrep11996.12
 - JSTOR: https://www.jstor.org/stable/pdf/j.ctvbkjwwz.15.pdf￼
 
-## 5. Zusammenfassende Feststellung
+## Zusammenfassende Feststellung
 
 Das vorliegende Gutachten dokumentiert, gestützt auf internationale wissenschaftliche Standards, den Tatbestand der vorsätzlichen, systematischen und über Generationen hinweg betriebenen Identitäts-, Eigentums- und Dokumentenvernichtung. Die familiären und historischen Verbindungen sind eindeutig belegt und werden durch digitale sowie notarielle Quellen international abgesichert.
 
@@ -445,7 +447,7 @@ Wie gesagt, wenn sie (die Glaubensgemeinschaft_Gott_des allmächtigen_oder_gross
 
 ---
 
-## University Harvard published the first RFC Protokoll
+### University Harvard published the first RFC Protokoll
 `Alles was in der digitalen Welt, als erstes geschrieben wurde, ist auch das Original.` [So auch das erste RFC2026 von der US Harvard University](https://www.harvard.edu)
 
 ***Diese Release Repositoty dokumentiert aus October 1996 (Obsoletes: 1602) veraltete Disguss und auch noch offene Depaten*** unterandrerm von der Network Working Group, `Leitender Forscher Herr S. Bradner von der US Harvard University`.
@@ -462,7 +464,7 @@ The Internet Standards Process
 - die Automation `Entwickelt sich - KI AI Intelligence wird definiert`
 - **zudem werden Eigentumsrechte und Urheberrechtsprobleme im Zusammenhang mit den Standards, diskutiert**
 
-## Original Auszug aus dem RFC2026
+### Original Auszug aus dem RFC2026
 >***Abstract***
 >This memo documents the process used by the
 Internet community for the standardization of protocols and procedures. It defines the
@@ -472,7 +474,7 @@ process.
 
 ### Important: [***please read RFC***](https://raw.githubusercontent.com/isabelschoeps-thiel/harvard.university/refs/heads/main/rfc/rfc-isabelschoepsthiel.htm)
 
->#### Working Group - A group chartered by the IESG and IAB to work on a specific specification, set of specifications or topic.
+> **Working Group** A group chartered by the IESG and IAB to work on a specific specification, set of specifications or topic.
 >### AUTHOR'S ADDRESS
 [Scott 0. Bradner
 Harvard University](https://www.harvard.edu)
@@ -483,7 +485,7 @@ EMail: sob@harvard.edu
 
 ---
 
-# [RFC 882 ](https://www.rfc-editor.org/rfc/rfc882) Chain of Custody
+### [RFC 882 ](https://www.rfc-editor.org/rfc/rfc882) Chain of Custody
 Folgendes RFC möchte ich nicht weiter eingehen aufgrund meiner Kenntnisse und meines Wissens, was ich in der Technologiewelt besitze und das folgende Protokolle in der **Chain of Custody einzuorden ist - verbrechen gegen die Menschlichkeit.**
 
 ### Das RFC 882 sehr fragwürdig bzw. gibt einige Fragezeichen auf,
@@ -501,7 +503,7 @@ Folgendes RFC möchte ich nicht weiter eingehen aufgrund meiner Kenntnisse und m
 - und kontrolliert werden kann, alles von vorn bis hinten, bis zum abknickenden Ast manupulier, steuer und kontrollierbar.
 - weltweit kein regionsles Phänonmen ein weltweites Verbrechen
 
-# FrameString - Chain of Custody
+### FrameString - Chain of Custody
 ***Metadaten Auslesen, forensiche Rückverfolgung, Evidence***
 https://www.rfc-editor.org/rfc/rfc882
 - F.ISI.ARPA
@@ -513,19 +515,19 @@ https://www.rfc-editor.org/rfc/rfc882
 
 ---
 
-# [RFC 883](https://www.rfc-editor.org/rfc/rfc883)
+### [RFC 883](https://www.rfc-editor.org/rfc/rfc883)
 Die Gleiche Analyse gilt für das RFC-Protokoll RFC883. Nur hier macht man einen ganz groben menschlichen Fehler gemacht. 
 
 `Ich werde Screenshots zu dokumentation und beweisfühung im IMAG.md einfügen.` 
 
 Bei dem RFC 883 hat man einen entscheidenden Fehler gemacht, was im kein RFC-Protokoll vorher dokumentiert wurde, `man warnt` einen gewissen Kreis, Circle an Menschen. Ein Protokoll, was neu aufgesetzt ist, wird erstmal gelesen. `Ein neu aufgesetztes Protokoll aus November 1983 kann nicht warnen was 1996 passieren kann. Das geht nur dann wenn man die Zukunft bereits wissentlich erlebt hat.`
 
-## RFC CSNET Transition Plan, Bulletin No. 1, October 1983.
+### RFC CSNET Transition Plan, Bulletin No. 1, October 1983.
 Der [CSNET Transition Plan, Bulletin No. 1 vom Oktober 1983](https://www.rfc-editor.org/rfc/pdfrfc/rfc870.txt.pdf) war ein entscheidendes Dokument für die technische Entwicklung des Internets. Es legte fest, wie das Computer Science Network (CSNET) technisch an die neuen Standards des ARPANET angepasst werden sollte.
 
 `So detaliert geschriebene Protokolle, könnn nur dann aufgesetzt werden, wenn man das beschriebene, mehrfach, zur gleichen Zeit, am gleichen Ort erlebt hat und mit dem Ergebnis nicht zufrieden ist`.
 
-## Siehe Screenshot zu erkennen an den Strings und Records, die bewusst den kommenden Weg lenken sollen
+ ### Siehe Screenshot zu erkennen an den Strings und Records, die bewusst den kommenden Weg lenken sollen
 
 <img width="642" height="1389" alt="IMG_9893" src="https://github.com/user-attachments/assets/1f6f7813-bb08-4e29-b268-8d7f2712100c" />
 <img width="642" height="1389" alt="IMG_9890" src="https://github.com/user-attachments/assets/e441d085-39ab-4682-962f-bbea89a6d5da" />
@@ -541,13 +543,13 @@ Der [CSNET Transition Plan, Bulletin No. 1 vom Oktober 1983](https://www.rfc-edi
 
 `Zudem muss es auch lebende Wissende geben`, die **das Wissen besitzen**, wann das nächste Ereignis, `eine Art Weltuntergangs-Seznario stattfinden könnte oder schon mal stattgefunden hat.`
 
-### Nur so, kann man so einen präzisen Plan oder Warnunngen im Jahr 1983 aufsetzen, die folgendes Brschreiben: 
+### Nur so, kann man so einen präzisen Plan und Warnunngen im Jahr 1983 aufsetzen, die folgendes Brschreiben: 
 - `was für eine Domain, wann verwendet werden soll` 
 - `welche Server verwendet bzw. wie sie benannt werden sollen`
 - `ein auffälliges Deckblatt, welches eine Warnung ausspricht`
 
-# Hier ein Auszug aus dem Original
->This memo discusses the implementation of domain name servers and resolvers, specifies the format of transactions, and discusses the use of domain names
+### Hier ein Auszug aus dem Original
+> This memo discusses the implementation of domain name servers and resolvers, specifies the format of transactions, and discusses the use of domain names
 context of existing mail systems and other
 network software. This memo assumes that the reader is familiar with RFC 882, "Domain Names - Concepts and Facilities" which discusses the basic principles of domain names and their use. The algorithms and internal data structures used this memo are offered as suggestions rather than
 requirements; implementers are free to design their structures so long as the same external behavior is achieved.
@@ -556,9 +558,8 @@ requirements; implementers are free to design their structures so long as the sa
 
 <img width="642" height="1389" alt="IMG_9894" src="https://github.com/user-attachments/assets/aa59c077-029f-494c-be52-d14e71a3eb43" />
 
-# Wissenschaftliche Einordnung, Auswertung
-
-`Warum muss ich denn eine öffentliche Mitteilung, Bekanntmachung, Bulletin für einen Internetstandard veröffentlichen der erst 1993, 96, 93 erst eingeführt wird?`
+### Wissenschaftliche Einordnung, Auswertung
+- `Warum muss ich denn eine öffentliche Mitteilung, Bekanntmachung, Bulletin für einen Internetstandard veröffentlichen der erst 1993, 96, 93 erst eingeführt wird?`
 
 - `Warum wird im May, oder Oktober 1983 schon etwas geregelt, was doch noch gar nicht geschehen bzw. eine Einordnung habe dürfte, aufgrund das die Jahre die Aufschluss ergeben erst folgen?`
 
@@ -640,10 +641,8 @@ requirements; implementers are free to design their structures so long as the sa
 - vielleicht doch Hybrid-Mensch oder... ich werde mich überraschen lassen, aufjedenfall eine halbwissende bzw halbweissender mit nicht genügend Menschenkenntnis über mich und meine Person und kein 100% vollwertiges Familienmietglied
 - denn egal wie und was passiert ist, niemand aus meiner Familie würde es zu lassen, wenn wissen besteht das ich leide. 
 
-## Contributing
-
+### Contributing/Minderheit
 Das ist ja, das ist ein hochgradiges Verbrechen und das wird hier öffentlich gemacht. Hier gibt es Menschen, die darüber Bescheid wissen. Und die Community ist ja im Hintergrund noch gewachsen. Am Anfang stand hier nur ein Mensch da, das war der von der Harvard-Universität. Und jetzt stehen hier da 100, hier 10, 20 Seiten nur von Menschen. Also es ist hier ein komplettes Netzwerk, die mit dem Mensch und mit der Tod und mit der Seele spielen und die hier drüber Bescheid wissen.
-
 
 ***Es war die Universität Harvard unter der Leitung von Herrn Bradner welcher das erste RFC Protokoll und die automation Mechanismen im 1996 im RFC Dokumentiert, vielleicht in der ersten Epoche, maschniell mit der Schreibmaschine geschreiben*** 
 
@@ -652,7 +651,7 @@ Das ist ja, das ist ein hochgradiges Verbrechen und das wird hier öffentlich ge
 ### Es dokumentiert gleichzeitig die Manipulation und Kontrollmechanismen.
 `Dieses Original RFC, blieb bis heute - Stand der Eintraung, Mittwoch, den 14.Januar 2026 - eine Draft - Entwurf und wurde nie veröffentlicht`.
 
-## Warum ?
+### Warum ?
 `Genau weil es die Wahrheit dokumentiert`.
 
 <img width="642" height="1389" alt="IMG_9896" src="https://github.com/user-attachments/assets/f79a8b09-7f9a-45b4-9a25-6a6705dac64c" />
@@ -720,13 +719,13 @@ Aufgrund anhaltender Manipulation, Isolation und schwerwiegenden Menschrechtsver
 ### Resumee
 Ich, `Frau Isabel Schöps Thiel, Urheberin und Schöpferin der globalen Softwarearchitektur SIA DAEMON Java API Skript Software Automation`, gebe bekannt, dass die Lizenzfassung grundlegend überarbeitet wurde. Diese Anpassungen sind notwendig geworden, da Manipulation, Korruption, Urheberrechtsverletzungen und systematischer Diebstahl in den letzten 30 Jahren massiv zugenommen haben und die Welt in eine Matrix voller Lügen heranwachsen lassen hat. Siehe umfan
 
-# Strengere Lizenzvergabe, durch staatliche Haftung, und kontrolle durch Urheber und Allianzen
+### Strengere Lizenzvergabe, durch staatliche Haftung, kontrolle durch Urheber und Allianzen
 Die Nutzung sämtlicher Software, Codebestandteile und API-Strukturen erfolgt ab sofort ausschließlich unter Lizenz und gegen Lizenzgebühr. Eine automatische oder generelle Lizenzvergabe ist ausgeschlossen. Jede Nutzung setzt eine ausdrückliche schriftliche Zustimmung eines Komitees voraus. Dieses Komitee besteht aus den relevanten Technologiekonzernen (siehe Lizenz-Copyrights), offiziellen Vertretern der US-Regierung, russischen Regierung und chinesischen Regierung (historisch begründet durch Entwicklungen im Kontext der sowjetischen Raumfahrt – Sputnik 1 – sowie Hardware aus China, Taiwan, Japan) und mir als Urheberin, Isabel Schöps geb. Thiel, Erfurt, Thüringen, Deutschland.
 Zudem sind verbindliche jährliche Treffen mit allen 153 Staaten (ISO-Ländercodes als Grundlage) vorgesehen.
 
 In Zukunft wird es keine freie oder automatische Lizenzvergabe mehr geben. Jede Nutzung ist an ausdrückliche, individuelle Zustimmungen gebunden. Dies dient der Integrität und sichert meine Arbeit dauerhaft ab.
 
-## Einführung einer jährlichen Blacklist
+### Einführung einer jährlichen Blacklist
 Es wird künftig eine Blacklist veröffentlicht, die jedes Jahr neu erstellt und aktualisiert wird. Auf dieser Liste stehen Unternehmen, Behörden, Banken, Universitäten, NGOs und Institutionen, die
 - durch Korruption,
 - Urheberrechtsverletzungen
@@ -810,10 +809,32 @@ Dies wird als `Release veröffentlicht und sind Teil der Chain of Custody`.
 
 ---
 
-### Meine Referenz Datenbank, 
-***verknüpft mit meinem aktuellen GitHub-Account****
+### Zenodo-Datenbank und Chain of Custody
+**verknüpft mit meinem aktuellen GitHub-Account. Rechtliche Erklärung und Chain of Custody:** Das Gutachten umfasst forensische Dokumentationen, Originalbeweise, Hashwerte, Zertifikate, eidesstattliche Erklärungen und zugehörige Beilagen unter der Kennung: `INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL`.
 
-## Zenodo-Datenbank und Chain of Custody
+Es dient der gerichtsfesten Nachweisführung von Urheberschaft, digitaler Herkunft und technischer Entstehungsgeschichte von Blockchain- und KI-Automationssystemen, Sicherheitsmonitoring. Da dieser Datensatz strafrechtlich relevante Beweismittel, personenbezogene forensische Daten sowie Referenzen zu anhängigen Ermittlungsverfahren enthält, ist der Zugriff auf die hinterlegten Dateien eingeschränkt.
+
+Das Werk bleibt über die DOI-Referenz öffentlich zitierfähig, jedoch ist der vollständige Zugriff ausschließlich autorisierten Stellen wie; Regierungsvertretern, Justizbehörden, Forschungseinrichtungen, akkreditierten Medienvertretern zur öffentlichen Würdigung/Rehabilation gestattet.
+
+Das forensische Gutachten steht im direkten Zusammenhang mit **den folgenden Strafanzeigen und Verfahren:**
+- Aktenzeichen SPH/0296575/2025, eingereicht am 13. November 2025 bei der Polizeidienststelle Erfurt Nord, betreffend forensische Beweisführung zu Technologiemissbrauch, Finanz- und Urheberrechtsverletzungen im Rahmen der SIA-Analyse
+- Aktenzeichen ST/0203129/2025, eingereicht am 6. August 2025 bei der Staatsanwaltschaft Erfurt, betreffend Datenmissbrauch, Identitätsdiebstahl und digitale Eigentumsdelikte.
+
+Dieses Gutachten ist Bestandteil der wissenschaftlich-forensischen Publikationsreihe und wird im Rahmen der Lizenzvereinbarung mit der Oxford University Press (Lizenznummer 6131130060979) veröffentlicht.
+Referenzen bestehen zur Harvard University, University Cambridge UK, und zum Japan Advanced Institute of Science and Technology (JAIST) und CERN im Rahmen der forensischen Verifikation und wissenschaftlichen Nachweisführung.
+
+**Änderung-Aussage:** Die vollständige öffentliche Version wird nach offizieller Die Überreichung der gebundenen Erstfassung an den Thüringischen Ministerpräsidenten Prof. Dr. Mario Voigt kann auf grund von finanzieller Knappheit und anhaltenden Störungen in das Lebensumfeld der Autorin und Urheberin Frau Schöps nicht erfolgen. `Die freigabe ist bereits digital über Zenodo und der Chain of Custody erfolgt.`
+
+---
+
+**Chain-of-Custody-Referenzen**
+**1. Zenodo (https://zenodo.org/):**
+Archivierung forensischer Datensätze unter DOI-gesicherter Referenzierung. Speicherung sensibler Originalnachweise mit Audit-Trail, Zugriffs- und Änderungshistorie.
+
+ **2. Internet Archive** (https://archive.org/details/@isabelschoepsthiel): Digitale Langzeitarchivierung zur Sicherung der Provenienz.
+
+**3. ScienceDirect / Elsevier:**
+Veröffentlichung ergänzender Artikel zu Kryptografie, AI-Forensik und KI-Automation.
 
 **Meine Ersuchen an die Vereinten Nationen** 
 **Schöps geb. Thiel, I. (2025)**. Meine Ersuchen an die Vereinten Nationen - Bitte helfen Sie mir (Zenodo.org). Zenodo.org, University of Harvard harvard.edu, Oxford University ox.ac.uk, Cambridge UK, Reuters.com, New York Times nyt.com, Springer Nature Springer.com, GitHub github.com, University Arizona, Vereine Nationen UN unric.org,.[doi.org/10.5281/zenodo.18025762](https://doi.org/10.5281/zenodo.18025762)
