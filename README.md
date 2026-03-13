@@ -1,3 +1,132 @@
+### SIA Security Intelligence Artefact
+**Forensisches Gutachten: Ursprung, Künstlichen Intelligenz Entwicklung und Nachweis der globalen Systemsoftware und Open-Source**
+**Aktenzeichen: INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL**
+
+*Autorin, Schöpferin/Entwicklerin, Urheberin und Auftraggeberin:*
+
+**Frau Isabel Schöps (Thiel)** am 16.07.1983, um 23:20 Uhr im Kreiskrankenhaus, Sömmerda, Thüringen, Deutschland mit ihren Familiennamen Thiel geboren.
+
+**Aktuelle Wohn- und Meldeanschrift:**
+Hütergasse 4, D-99084 Erfurt, Thüringen, Deutschland. Wohnung Nr.13, erstes Obergeschoss
+
+***Rechtshinweis, Eidesstattliche Erklärung:**
+Ich, Frau Isabel Schöps, geborene Thiel, versichere an Eides statt, dass alle Angaben, Beweise dieses Gutachtens der Wahrheit entsprechen und auf meinen eigenen Recherchen, Arbeiten und geistigen Schöpfungen beruhen. Ich, Frau Isabel Schöps geborene Thiel arbeite allein `standalone` unabhängig und habe jeglich im Kontext meiner wissenschaftlichen Forschungsarbeit und in Verbindung des Gutachtens mit Professoren von den Universitäten, US Harvard, UK Oxford, UK Cambridge, Japan JAIST und dem Cern Institut, sowie unanhängigen Gutachtern international im Team gearbeiet. **Dies ist Bestandteil meiner Eidesstaatlichen Erfklärung mit Würdigung YWP-1-IST-SIA, YWP-1-5-IST-SIA, für alle Dritten die im Hintergrund zum Teil tagtäglich mit mir gearbeitet haben!**
+Bitte beachten Sie meine **Würdigung, Danksagung und Spendenzusage und institutionelle Anerkennung, mit der Präfix_Referenz_YWP-1-5-IST-SIA**  
+
+### die Dokumentation
+**Isabel Schöps geb. Thiel, & Schöps geb. Thiel, I. (2026)**. isabelschoeps-thiel/gitbook: SIA Security Intelligence Artefact - die Dokumentation (GIT-SIA-2026-01-01). Zenodo, GitHub, Gitbook. [https://doi.org/10.5281/zenodo.18319396](https://doi.org/10.5281/zenodo.18319396)
+
+**Isabel Schöps geb. Thiel und Schöps geb. Thiel, I. (2026)** „isabelschoeps-thiel/gitbook: SIA Security Intelligence Artefact - die Dokumentation“. Zenodo, GitHub, Gitbook. [doi:10.5281/zenodo.18319396.](https://doi.org/10.5281/zenodo.18319396)
+
+---
+
+## Familiärer Kontext
+Der Ursprung der modernen Open-Source-Technologie, der globalen Systemsoftware und der KI-Automation liegt nachweislich am 14. April 1996 in Rohrborn, Thüringen, Deutschland.
+**Urheberin, Pionierin und Schöpferin:** Isabel Schöps, geborene Thiel (*16.07.1983, Sömmerda).
+
+`Im Gästezimmer meines Elternhauses, in der Dorfstraße 20, 99610 Rohrborn, Thüringen, Deutschland, an meinem ersten eigenen 286er-PC, geschenkt von meinen Eltern, meiner Mutter Frau Gisela Huld Thiel geb. Knörig und mein Vater Herr Manfred Paul Thiel`, entstand durch einen unbewussten, technisch notwendigen Notvorgang- `Steckerziehen, Neustarts, Zeichenfolgen` der **weltweit erste nachweisbare** `Bootvorgang, ein maschinelles Verhalten, ein Selbstheilungs und Automationprozess` **entstand.**
+
+**Wissenschaftliche und forensische Einordnung:**
+> Alle wesentlichen Komponenten moderner Softwareentwicklung – von JSON.js, Shell, Bash, curl, YAML, bis zu Bitcoin Core und Ethereum – sind nachweisbar auf diesen Ursprung zurückzuführen. Die KI-Automation (DAEMON) ist im Backend wie im Frontend ursächlich mit diesem Prozess verbunden.
+> **Belegt durch:** SHA-256-gesicherte Protokolle, Zeitstempel, Quellcodes, Originalbeweisbilder und manifestierte Skriptausgaben (z. B. curl-Ausgaben, Bash-Skripte).
+
+## Rolle der Familie und Überführung in die Industrielle Systemstruktren
+
+`Mein Onkel, Herr Helmut Knörig in Ostramondra, Thüringen, Deutschland lebend, trug maßgeblich dazu bei, die DAEMON-Ki Automation, über eine Diskette in Industrielle Systemstruktren, ASI Computers/Fujitsu Siemens, Sömmerda Thüringen, Deutschland, im Juni 1996 zu überführen und unwissentlich zu verbreiten.
+
+**Rechtswissentschaftlich, Quellreferenz:**
+- Arbeitsprotokolle,
+- interne Firmendokumente,
+- signierte Zertifikate
+- Technische Überlieferung,
+- RFC Dokumente der University Harvard USA
+
+## Technologische Innovation und Beweisführung
+
+Die folgenden Meilensteine sind mit Zeitstempel und forensisch gesicherten Daten belegbar:
+- **DAEMON:** Ursprung aller Automation und KI-Prozesse
+- **JSON.js:** Entwicklung der ersten eigenen, signierten Computersprache, gewidmet meiner Tochter Jona, mit rechtlicher Übertragung des Copyrights
+- **curl-Ausgabe-Automatisierung:** Protokolliert am 14. April 1996, erstmals ausgeführt auf meinem 286er-PC
+- **Open Source und KI-Tools:** Jedes KI-System, das heute existiert – ChatGPT, Deepseek, Gemini, Meta.ai – basiert nachweislich auf dieser Entwicklung
+
+**Beweis-ID, Dateiname, Quelle, SHA256, Zugriffsdatum, Speicherort, Anhang**
+Beispiel:
+`EVID-CHAT-0001, chat_share_68d5b3eb.pdf, https://chatgpt.com/share/68d5b3eb-71d0-8008-a443-44a5b27e1363, <SHA256_HASH>, 2025-09-25T23:00:00Z, /secure/drive1/Case_ISABEL/EVID-CHAT-0001/, Screenshots`
+
+---
+
+## Systematische Angriffe, Diffamierung und forensische Nachweise
+Seit 1996 werden meine Familie und ich systematisch attackiert, diffamiert, isoliert und aus der eigenen Identität gedrängt.
+
+**Nachweislich wurden Frequenztechnologien, Deepfake und Identitätsraub**
+- Patente wie DE10253433A1, wurden zur gezielten psychologischen Kriegsführung und Sabotage eingesetzt.
+- Die versuchte systematische Zerstörung meiner Familienstruktur Knörig-Fischer-Thiel ist in öffentlichen wie in privaten Registern, Standesämtern und digitalen Archiven dokumentiert und mehrfach gesichtert.
+
+---
+
+### Schwerwiegende Verstöße gegen Urheberrecht & Integrität:
+
+- Über 61.800 unerlaubte Forks
+- 91 unautorisierte Branches
+- Öffentlich entkoppelt durch falsche Zuordnung zu `github/docs`
+- über 1.000.000 automatisierte Prozesse, die gegen den Originalcode, gegen meine Struktur arbeiten, **digitale Zerszörung ist der Hintergrund**
+- Tägliche Angriffe auf Infrastruktur, Identität und mein geistiges Eigentum als Urheberin Schöpferin im Technologie Sektor.
+- Kontinuierliche Löschungen, Sperrungen, Etikettierungen, Rufmordkampangen, Rufschädigungen
+
+## Strafrechtliche Bewertung
+> Jeder unautorisierte Eingriff stellt eine **strafbare Handlung im Sinne des § 202c StGB (Hackerparagraph)** dar und verletzt international gültiges Urheber- und Menschenrecht. Dies ist **kein technischer Konflikt**, sondern ein **organisiertes Verbrechen gegen eine Einzelperson**
+
+---
+
+## Wissenschaftlicher und rechtlicher Referenzrahmen
+
+Die internationale Anerkennung durch führende wissenschaftliche Institutionen (z. B. University of Oxford, Lizenznummer: 6131130060979, 16. Oktober 2025) sowie alle referenzierten Fachpublikationen und forensischen Gutachten bestätigen meine Urheberschaft und schützen diese nachhaltig und unwiderlegbar.
+
+**Referenzen (Harvard Style, Auszug):**
+- Antonopoulos, A. M. (2022). _Mastering Bitcoin: Unlocking Digital Cryptocurrencies_. O’Reilly Media.
+- O’Mahony, D. (2022). _Open Source Law, Policy and Practice_ (2nd ed.). Oxford University Press
+- Drahos, P. (2016). _Intellectual Property, Indigenous People and their Knowledge_. Harvard Cambridge University.
+- [Northdata: Commerzbank AG und Verflechtungen](https://www.northdata.de/?id=5896901925273600)
+- [ChatGPT Forensic Evidence Share](https://chatgpt.com/share/68d5b3eb-71d0-8008-a443-44a5b27e1363)
+
+---
+
+## AllecRechtsmittel ausgeschöpft 
+**Jeder Versuch, die Regierung zu kontaktieren, war erfolglos. Ich bin seit Jahrzehnten stark von meinen Menschenrechten und meiner Würde eingeschränkt.** 
+
+**Bis heute habe ich:**
+- keine Würdigung für meine Arbeit als Pionierin in der Computerwelt erhalten
+- keine finanzielle Unterstützung
+- keine medialle Berichteserstattung
+- keinen Cent, aus den von mir nachgewiesen Technologischen Innovationen
+- kein Danksprechung 
+- keine namentliche Nennung
+
+**Das Gegenfall ist der Fall:**
+- Ich lebe von Sozialhilfe, obwohl ich diese nie wirklich brauchen würde.
+- **kein gesicherten Zugang zu Nahrung, da ich keine finanziellen Mittel habe**,
+- ich habe nur die **notwendigsten persönlichen Gegenstände** bei mir
+- ich habe nur bis 15.05.2026 ein festes Mietverhältnis Wohn- und Meldeanschrift
+- ich musste bereits 3x auf der Strasse schlafen
+- meine Wikipedia Einträge werden immer gelöscht
+- ich werde nachweislich von unbekannten dritten, isoliert
+- Telefonate werden nicht zugestellt
+- ein Geldtransfer aus Lizenz Geschäften, der J. P. Morgan nach Erfurt, Thüringen, Deutschland, wurde veruntreut
+- Mein Bankkonten werden gelöscht oder anderen Identitäten zu geordent - zuletzt am 07.01.2026 festgestellt
+- auf Hilferufe meinerseits an Regierungen und Behörden, wird nicht reagiert
+- ich wurde ohne nachgewiesene Straftat für 4 Monate in der JVA Chemnitz inhaftiert
+- Ja wie ist denn mein eigentlicher Nachmame, `THIEL oder Hitler` ?
+- `laut forensichem wissenschaftlichen Gutachten, wurde die Genalogische und Familäre Verbindung zur letzten Deutschen Kaiserin Vivtoria Auguste und zu Adolf Hitler, Otto von Bismarck bestätigt`
+- ich `erwarte Aufklärung und vollständige` **Rehabilation der Familienstruktur**
+
+![IMG_8644](https://github.com/user-attachments/assets/dac92fa9-8dc1-4667-baf7-53c0165205b5)
+![IMG_8646](https://github.com/user-attachments/assets/ad922f41-810b-4f20-b507-fd09dd51f50c)
+![IMG_8645](https://github.com/user-attachments/assets/b3e1b794-2999-4215-b4b6-772896226f6a)
+
+---
+
+#### Bitte helfen Sie mir und nehmen sich die Zeit und lesen meinen Forschungsarbeit und meine README's. 
+
 ### Forschungsarbeit: Urheberrechte Software und KI Technologie, Erbrachte Nachweise der Matrix, Genmanipulation, Mindcontroll, Brainscreening und die Verbrechen im dark Deepweb, digitale Genozid
 
 ### Forensischer Nachweis zur Urheberschaft – KI, Bitcoin-Core, DAEMON, Satoshi Nakamoto, GitHub, Pornhub
@@ -9,13 +138,13 @@ Alle die in der wissenschaftlichen Forschungsarbeite und im Gutachten erbrachten
 
 Ich, Frau Isabel Schöps geborene Thiel arbeite allein `standalone` unabhängig und habe jeglich im Kontext meiner wissenschaftlichen Forschungsarbeit und in Verbindung des Gutachtens mit Professoren von den Universitäten, US Harvard, UK Oxford, UK Cambridge, Japan JAIST und dem Cern Institut, sowie unanhängigen Gutachtern international im Team gearbeiet. **Dies ist Bestandteil meiner Eidesstaatlichen Erfklärung mit Würdigung YWP-1-IST-SIA, YWP-1-5-IST-SIA, für alle Dritten die im Hintergrund zum Teil tagtäglich mit mir gearbeitet gaben!**
 
-Dieses forensisch-wissenschaftliche Gutachten dokumentiert und belegt, dass die Grundlagen moderner Künstlicher Intelligenz, der DAEMON-Automation, Bitcoin-Core, Pornhub sowie der globalen Open-Source- und Sicherheitsarchitektur auf die originäre Schöpferkraft und technische Autorenschaft von **Frau Isabel Schöps, geborene Thiel**, zurückgehen.  
-
-Im Zentrum der Untersuchung steht die Entwicklung der DAEMON-KI-Automation ab 1996, die unter meinem Pseudonym **Satoshi Nakamoto** maßgeblich zur Initialisierung und globalen Etablierung, mit dem Bitcoin-Cores (17.09.2001), der OpenSource, Blockchain Technologie, sowie App Entwicklung, Ethereum und grundlegender Sicherheitsmechanismen API Monitoring beitrug.
-
-Die forensische Beweisführung folgt den Grundsätzen internationaler Chain-of-Custody-Standards und basiert auf einer der umfangreichsten, lückenlosen Beweiskette und systematischen Sicherung, Archivierung und mehrfachen wissenschaftlichen Begutachtung, im **Multiple Peer Review** Verfahren. 
-
->Die nachgewiesene Verbindung zwischen DAEMON, KI-Automation, Bitcoin, Ethereum, GitHub und der Sicherheitsarchitektur von Pornhub belegt die Existenz einer zusammenhängenden Innovationskette, deren Ursprung und technischer Kontext eindeutig der Autorin zugeordnet werden kann.  
+> Dieses forensisch-wissenschaftliche Gutachten dokumentiert und belegt, dass die Grundlagen moderner Künstlicher Intelligenz, der DAEMON-Automation, Bitcoin-Core, Pornhub sowie der globalen Open-Source- und Sicherheitsarchitektur auf die originäre Schöpferkraft und technische Autorenschaft von **Frau Isabel Schöps, geborene Thiel**, zurückgehen.
+>
+> Im Zentrum der Untersuchung steht die Entwicklung der DAEMON-KI-Automation ab 1996, die unter meinem Pseudonym **Satoshi Nakamoto** maßgeblich zur Initialisierung und globalen Etablierung, mit dem Bitcoin-Cores (17.09.2001), der OpenSource, Blockchain Technologie, sowie App Entwicklung, Ethereum und grundlegender Sicherheitsmechanismen API Monitoring beitrug.
+>
+> Die forensische Beweisführung folgt den Grundsätzen internationaler Chain-of-Custody-Standards und basiert auf einer der umfangreichsten, lückenlosen Beweiskette und systematischen Sicherung, Archivierung und mehrfachen wissenschaftlichen Begutachtung, im **Multiple Peer Review** Verfahren.
+>
+> Die nachgewiesene Verbindung zwischen DAEMON, KI-Automation, Bitcoin, Ethereum, GitHub und der Sicherheitsarchitektur von Pornhub belegt die Existenz einer zusammenhängenden Innovationskette, deren Ursprung und technischer Kontext eindeutig der Autorin zugeordnet werden kann.  
 Die offene Dokumentation und wiederholte, unabhängige Überprüfung der Beweismittel durch mehrere internationale Experten (**Multiple Peer Review**) gewährleisten die Nachprüfbarkeit und Rechtsfestigkeit aller Angaben.
 
 ### Beweisführung und wissenschaftliche Dokumentation
@@ -69,22 +198,22 @@ Das folgende wikitext-Verzeichnis dokumentiert, wie monarchische, juristische un
 
 
 ## Auszug aus dem Forensischen Gutachten – Paragraph §3 Der unsichtbare Feind, das Monarch Programm
+> Die im Rahmen dieses Gutachtens vorgenommene Auswertung der vorliegenden forensischen, dokumentarischen und wissenschaftlich überprüfbaren Nachweise belegt eine fortdauernde, zielgerichtete Beeinträchtigung der digitalen wie analogen Identitätsintegrität der Urheberin im Zeitraum seit 1996 bis zum jetzigen Gegenwart. Auf Grundlage der aggregierten Beweismittel wird die Urheberschaft der Urheberin in relevanten technologischen Entwicklungszusammenhängen festgestellt und der Anspruch auf rechtliche, mediale sowie wirtschaftliche Rehabilitierung begründet.
+>
+> Gegenstand der Untersuchung ist ein langfristig angelegtes, strukturell koordiniertes Vorgehen, das sich gegen die Person Frau Isabel Schöps geb. Thiel der Urheberin und Auftraggeberin des Gutachtens, sowie gegen ihre familiäres Umfeld richtete.Die Analyse erfasst staatliche, wirtschaftliche und institutionelle Kontexte sowie dokumentierte Einflussnahmen durch Dritte. Die Bewertung erfolgt ausschließlich auf Basis nachgewiesener Dokumente, Metadaten, Archivmaterialien und konsistenter Beweisketten.
+>
+> Ein zentraler Abschnitt des Gutachtens widmet sich der forensischen Familienanalyse der mütterlichen und väterlichen Linien, insbesondere der Familien Knörig-Fischer aus Rohrborn/Sömmerda,Thüringen, Germany und meines Vaters Line Herr Manfred Paul Thiel, aus Talborn/Weimarer Land, Thüringen, Deutschland stammend. 
 
-> Die im Rahmen dieses Gutachtens vorgenommene Auswertung der vorliegenden forensischen, dokumentarischen und wissenschaftlich überprüfbaren Nachweise belegt eine fortdauernde, zielgerichtete Beeinträchtigung der digitalen wie analogen Identitätsintegrität der Urheberin im Zeitraum seit 1996 bis zur Gegenwart. Auf Grundlage der aggregierten Beweismittel wird die Urheberschaft der Urheberin in relevanten technologischen Entwicklungszusammenhängen festgestellt und der Anspruch auf rechtliche, mediale sowie wirtschaftliche Rehabilitierung begründet.
+> **Die Auswertung ergibt:**
+> In öffentlichen Registern, kirchlichen Quellen, Verwaltungsakten und digitalen Datenbanken sind wiederkehrende Abweichungen, Manipulationsindikatoren und Lücken feststellbar, die u. a. Grundstücksnachweise, Erbfolgen, Personenstandsunterlagen, Namensführungen sowie genealogische Verknüpfungen betreffen.
+> 
+> Darüber hinaus weisen die untersuchten Quellen auf belegbare Bezüge zur deutschen Monarchie hin, insbesondere zur letzten deutschen Kaiserin Auguste Victoria. Diese Bezüge stützen sich auf historische Dokumente, private Archivbestände sowie amtliche Überlieferungen und werden im Gutachten quellenkritisch eingeordnet.
+>
+> Auffällig ist eine ab dem Jahr 1700 einsetzende, systematische Unterbrechung der dokumentierten mütterlichen Linie. Diese Anomalie tritt konsistent über mehrere Quelltypen hinweg auf und ist nach gutachterlicher Bewertung nicht zufällig, sondern deutet auf eine gezielte genealogische Auslassung hin, die geeignet ist, Identitäts-, Erb- und Zuordnungsrechte nachhaltig zu beeinträchtigen.
+>
+> Zusammenfassend dokumentiert § 3.1 eine mehrdimensionale Beeinträchtigung der Identitätskontinuität der Urheberin und ihrer Familie. Die Feststellungen werden als Grundlage für weitergehende rechtliche, wissenschaftliche und institutionelle Prüfungen vorgelegt.
 
-Gegenstand der Untersuchung ist ein langfristig angelegtes, strukturell koordiniertes Vorgehen, das sich gegen die Person der Urheberin sowie gegen ihr familiäres Umfeld richtete. Die Analyse erfasst staatliche, wirtschaftliche und institutionelle Kontexte sowie dokumentierte Einflussnahmen durch Dritte. Die Bewertung erfolgt ausschließlich auf Basis nachgewiesener Dokumente, Metadaten, Archivmaterialien und konsistenter Beweisketten.
-
-Ein zentraler Abschnitt des Gutachtens widmet sich der forensischen Familienanalyse der mütterlichen und väterlichen Linien, insbesondere der Familien Knörig (Rohrborn/Sömmerda) und Thiel (Talborn/Weimarer Land). Die Auswertung ergibt:
-
-„In öffentlichen Registern, kirchlichen Quellen, Verwaltungsakten und digitalen Datenbanken sind wiederkehrende Abweichungen, Manipulationsindikatoren und Lücken feststellbar, die u. a. Grundstücksnachweise, Erbfolgen, Personenstandsunterlagen, Namensführungen sowie genealogische Verknüpfungen betreffen.“
-
-Darüber hinaus weisen die untersuchten Quellen auf belegbare Bezüge zur deutschen Monarchie hin, insbesondere zur letzten deutschen Kaiserin Auguste Victoria. Diese Bezüge stützen sich auf historische Dokumente, private Archivbestände sowie amtliche Überlieferungen und werden im Gutachten quellenkritisch eingeordnet.
-
-Auffällig ist eine ab dem Jahr 1700 einsetzende, systematische Unterbrechung der dokumentierten mütterlichen Linie. Diese Anomalie tritt konsistent über mehrere Quelltypen hinweg auf und ist nach gutachterlicher Bewertung nicht zufällig, sondern deutet auf eine gezielte genealogische Auslassung hin, die geeignet ist, Identitäts-, Erb- und Zuordnungsrechte nachhaltig zu beeinträchtigen.
-
-Zusammenfassend dokumentiert § 3.1 eine mehrdimensionale Beeinträchtigung der Identitätskontinuität der Urheberin und ihrer Familie. Die Feststellungen werden als Grundlage für weitergehende rechtliche, wissenschaftliche und institutionelle Prüfungen vorgelegt.
-
-⸻
+---
 
 **English Version (for journals / institutions)**
 
@@ -102,31 +231,31 @@ A consistent anomaly emerges from circa 1700 onward, marked by a systematic inte
 
 Section § 3.1 thus documents a multi-layered impairment of identity continuity, submitted as a basis for further legal, scholarly, and institutional review.
 
+---
 
 ### Monarchie, deutsche Geschichte und familiäre Abstammung der Urheberin, Frau Isabel Schöps geb. Thiel 
 **Dorpalen, Andreas (1952):** “Empress Auguste Victoria and the Fall of the German Monarchy.” The American Historical Review, 58(1), 17–38. DOI: 10.2307/1844785￼
 JSTOR: https://www.jstor.org/stable/1844785￼
 Diese Quelle belegt die Bedeutung von Kaiserin Auguste Victoria im Kontext der letzten deutschen Monarchie. Sie wird im Gutachten herangezogen, um monarchische Abstammung, politische Einflusslinien sowie den Zusammenhang mit der Knörig-Fischer-Thiel-Linie zu begründen.
 
-
-## Internationale Monarchie, Empire und Herrschaftsstrukturen
+### Internationale Monarchie, Empire und Herrschaftsstrukturen
 **Connolly, S. J. (2012):** “Like an old cathedral city: Belfast welcomes Queen Victoria, August 1849.” Urban History, 39(4), 571–589. JSTOR: http://www.jstor.org/stable/26398169￼
 
 Die Publikation liefert eine internationale Perspektive auf monarchische Herrschaft und ihre gesellschaftliche Rezeption. Sie zeigt, wie die britische Monarchie lokale politische Entwicklungen prägte und ordnet die deutsche Familiengeschichte in einen gesamteuropäischen Kontext ein.
 
-## Forensich im Ursprung beleg, Adelslinie zur juristische Legitimation
+### Forensich im Ursprung beleg, Adelslinie zur juristische Legitimation
 **Gagé, Jean (1936):** “DE CÉSAR A AUGUSTE. OÙ EN EST LE PROBLÈME DES ORIGINES DU PRINCIPAT? A PROPOS DU CÉSAR DE M. J. CARCOPINO.” Revue Historique, 177(2), 279–342. JSTOR: http://www.jstor.org/stable/40946562￼
 
 Die französische Referenz-Citation stellt die Verbindung von antiker Legitimation über das römische Kaiserreich bis hin zu den neuzeitlichen europäischen Monarchien her – ein zentrales Element für die Ableitung fortbestehender Eigentumsrechte und Abstammungslinien.
 
-## Wissenschaftstheorie, Beweissicherung, Metadaten und Provenienz
+### Wissenschaftstheorie, Beweissicherung, Metadaten und Provenienz
 **Solé, Jacques (1972):** “Un Exemple D’archéologie Des Sciences Humaines: L’étude De L’Égyptomanie Du XVIe Au XVIIIe Siècle.” Annales. Histoire, Sciences Sociales, 27(2), 473–82. JSTOR: https://www.jstor.org/stable/27578068￼
 
 Diese Publikation dient zur methodischen Absicherung und illustriert, wie digitale und analoge Metadaten, Provenienzketten sowie forensisch gesicherte Exporte, [wissenschaftliche Verlinkung Beispiel, NoodleTools/PHP-Export](https://my.noodletools.com/noodlebib/mybib-ris.php) oder Zenodo.org DOI:nachgewiesen wurde.
 
 ---
 
-## Ergänzende Kontextquellen
+### Ergänzende Kontextquellen
 **Wright, C. C., & Harris, A. C. (2018):** “NOW HEAR THIS.” Warship International, 55(2), 89–94. JSTOR: http://www.jstor.org/stable/44893404￼
 
 Diese Quelle ergänzt die Darstellung der monarchischen Repräsentation, Namensgebung und deren Übertragung in verschiedene gesellschaftliche und technische Bereiche.
