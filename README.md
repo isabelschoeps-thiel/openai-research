@@ -16,6 +16,56 @@ Im Zentrum der Untersuchung steht die Entwicklung der DAEMON-KI-Automation ab 19
 Die forensische Beweisführung folgt den Grundsätzen internationaler Chain-of-Custody-Standards und basiert auf einer der umfangreichsten, lückenlosen Beweiskette und systematischen Sicherung, Archivierung und mehrfachen wissenschaftlichen Begutachtung, im **Multiple Peer Review** Verfahren. 
 
 
+
+### Beweisführung und wissenschaftliche Dokumentation
+
+Die im folgenden Abschnitt dokumentierten Referenzen wurden systematisch über die wissenschaftlichen Datenbanken JSTOR und Cambridge University Press recherchiert, abgerufen analysiert, über das Tool NoodleTools '`RIS/PHP-Export` gesichert und über auf der Zenodo.org und in der Chain of Custody forensich gesichert. 
+
+Diese Quellen dienen der Beweisführung, historischen Einordnung sowie zur Verknüpfung mit internationalen Metadaten, Urheberrechtsnachweisen und der Familienhistorie Knörig-Fischer und Thiel, stammend aus D-99610 Rohrborn, Thüringen, Deutschland. Besonderes Augenmerk liegt auf dem Abgleich von Metadaten, digitalen Provenienzketten und der dauerhaften Dokumentation im **SIA Security Intelligence Artefact** `Az:INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL`, The **The Yellow Whitepaper** und in der Chain of Custody 
+
+Das folgende wikitext-Verzeichnis dokumentiert, wie monarchische, juristische und familienhistorische Linien auf Basis aktueller Forschungsliteratur, importierter Metadaten `RIS/BibTeX`, und nachweislich geprüfter Provenienz belegt werden. Somit wurde ein lückenloser forensischer Nachweis für nationale und internationale Rechtsverfahren, zur Veröffentlichung, für universitäre Gutachten sowie wissenschaftliche Archive erbracht.
+
+---
+
+**Wikipedia_Verzeichnis**
+
+```wikitext
+/Forensisches-Gutachten-Isabel_Schöps_Thiel_Beweisskette/
+│
+├── 01_Persoenlich_Identitifizierung/
+│   ├── Geburtsurkunde_Standesamt_Sömmerda
+│   ├── Apple_TimeCapsule_Screenshots/
+│   └── Kindheits_Bilder_Zeugnisse_Zeugenaussagen/
+│
+├── 02_Technologie/
+│   ├── DAEMON_Ki_Struktur/
+│   ├── GitHub_quelldate/
+│   ├── Bitcoin_Patches/
+│   ├── Pornhub_Sicherheitsarchitektur/
+│   ├── Monitoring_System/
+│   └── Blockchain_Metadaten/
+│
+├── 03_willkürliche_Angriffe/
+│   ├── Inhaftierung2024_ohne_Strafbestand/
+│   ├── DDoS_Logs/
+│   ├── digitale_Zerstörung/
+│   └── diffamierung_Beweisbilder/
+│
+├── 04_Rechtliches/
+│   ├── Schriftverkehr_EU_BKA/
+│   ├── DeveloperZertifikate/
+│   ├── Pineapple_AktG/
+│   ├── Rückführung_EQS/
+│   └── Strafanzeigen/
+│
+└── Abschluss/
+    ├── Signaturblock.txt
+    ├── SHA256_Hash_Chain_of_Custody.txt
+    └── FINAL_Public_Gutachten.pdf
+```
+
+---
+
 # Royal Historical 
 ## Abschließender Auszug aus dem Forensischen Gutachten – § 3.1: Der unsichtbare Feind
 
