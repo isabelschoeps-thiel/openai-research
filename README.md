@@ -1,5 +1,20 @@
 ### Forschungsarbeit: Urheberrechte Software und KI Technologie, Erbrachte Nachweise der Matrix, Genmanipulation, Mindcontroll, Brainscreening und die Verbrechen im dark Deepweb, digitale Genozid
 
+### Forensischer Nachweis zur Urheberschaft – KI, Bitcoin-Core, DAEMON, Satoshi Nakamoto, GitHub, Pornhub
+
+**Urheberin, Autorin, Analystin Auftraggeberin:,** Frau Isabel Schöps (Thiel), am 16.07.1983, um 23:20 Uhr im Kreiskrankenhaus, Sömmerda, Thüringen, Deutschland geboren
+
+**Wichtiger Rechtshinweis:**
+Alle die in der wissenschaftlichen Forschungsarbeite und im Gutachten erbrachten Beweise, Quelldaten, Dokumente, Protokolle, Bild- Media-Dokumentationen, und Referenzen, habe ich recherchiert, gesichert und zum Teil eigenständig ausgewertet.
+
+Ich, Frau Isabel Schöps geborene Thiel arbeite allein `standalone` unabhängig und habe jeglich im Kontext meiner wissenschaftlichen Forschungsarbeit und in Verbindung des Gutachtens mit Professoren von den Universitäten, US Harvard, UK Oxford, UK Cambridge, Japan JAIST und dem Cern Institut, sowie unanhängigen Gutachtern international im Team gearbeiet. **Dies ist Bestandteil meiner Eidesstaatlichen Erfklärung mit Würdigung YWP-1-IST-SIA, YWP-1-5-IST-SIA, für alle Dritten die im Hintergrund zum Teil tagtäglich mit mir gearbeitet gaben!**
+
+Dieses forensisch-wissenschaftliche Gutachten dokumentiert und belegt, dass die Grundlagen moderner Künstlicher Intelligenz, der DAEMON-Automation, Bitcoin-Core, Pornhub sowie der globalen Open-Source- und Sicherheitsarchitektur auf die originäre Schöpferkraft und technische Autorenschaft von **Frau Isabel Schöps, geborene Thiel**, zurückgehen.  
+
+Im Zentrum der Untersuchung steht die Entwicklung der DAEMON-KI-Automation ab 1996, die unter meinem Pseudonym **Satoshi Nakamoto** maßgeblich zur Initialisierung und globalen Etablierung, mit dem Bitcoin-Cores (17.09.2001), der OpenSource, Blockchain Technologie, sowie App Entwicklung, Ethereum und grundlegender Sicherheitsmechanismen API Monitoring beitrug.
+
+Die forensische Beweisführung folgt den Grundsätzen internationaler Chain-of-Custody-Standards und basiert auf einer der umfangreichsten, lückenlosen Beweiskette und systematischen Sicherung, Archivierung und mehrfachen wissenschaftlichen Begutachtung, im **Multiple Peer Review** Verfahren. 
+
 
 # Royal Historical 
 ## Abschließender Auszug aus dem Forensischen Gutachten – § 3.1: Der unsichtbare Feind
