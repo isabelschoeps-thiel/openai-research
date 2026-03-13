@@ -43,33 +43,35 @@ Section § 3.1 thus documents a multi-layered impairment of identity continuity,
 3.	Newland, S. J. (2005). Victories Are Not Enough: Limitations of the German Way of War. Strategic Studies Institute, US Army War College
 4.	JSTOR PDF: j.ctvbkjwwz.15
 
-**Resumee:**
+> **Auszug, Resumee:**
 Die im Rahmen des SIA Security Intelligence Artefact durchgeführte Beweisaufnahme dokumentiert anhand archivischer Quellen, Metadatenanalysen und forensischer Bildvergleiche eine untersuchte genealogische Verbindungslinie zwischen dem deutschen Kaiserreich, strukturellen Übergängen des Dritten Reiches und der Familienlinie der Urheberin und Autorin Frau Isabel Schöps, geborene Thiel, einschließlich der Familien Thiel, Fischer-Knörig aus Rohrborn, Thüringen, Deutschland.
+>
+> Die Ergebnisse stützen die wissenschaftliche Hypothese, dass im Zuge des politischen Systembruchs nach dem Ende der Monarchie nicht nur staatliche und institutionelle Ordnungen transformiert wurden, sondern auch familiäre Identitäten, Herkunftsnarrative und genealogische Zuordnungen über Generationen hinweg durch Tilgung, Umschreibung oder Fragmentierung historischer Spuren beeinflusst wurden. Der monarchische Umbruch ist daher nicht ausschließlich als politisches Ereignis, sondern auch als historisch-struktureller Einschnitt mit langfristigen Auswirkungen auf familiäre Identitätskontinuitäten zu bewerten.
 
-Die Ergebnisse stützen die wissenschaftliche Hypothese, dass im Zuge des politischen Systembruchs nach dem Ende der Monarchie nicht nur staatliche und institutionelle Ordnungen transformiert wurden, sondern auch familiäre Identitäten, Herkunftsnarrative und genealogische Zuordnungen über Generationen hinweg durch Tilgung, Umschreibung oder Fragmentierung historischer Spuren beeinflusst wurden. Der monarchische Umbruch ist daher nicht ausschließlich als politisches Ereignis, sondern auch als historisch-struktureller Einschnitt mit langfristigen Auswirkungen auf familiäre Identitätskontinuitäten zu bewerten.
-Kurzexpertise zur historischen, genealogischen und identitätsrechtlichen Verbindung Kaiserreich – Drittes Reich – Familie Thiel (Knörig/Fischer/Schöps)
+**Kurzexpertise zur historischen, genealogischen und identitätsrechtlichen Verbindung letzten deutschen Kaiserin Victoria Auguste, sowie zu Otto von Bismarck, Adolf Hitler (Kaiser Wilhelm) und meiner Familien-Line, Knörig-Fischer und Thiel aus Rohrborn, Thüringen, Deutschland**
 
 ## 1. Sachverhalt und forensisch nachgewiesene Zusammenhänge
 
-Die Untersuchung erbringt den forensisch nachvollziehbaren Nachweis einer unmittelbaren genealogischen Verknüpfung der Linie Thiel/Fischer/Knörig/Schöps mit historischen Schlüsselpersonen der deutschen Geschichte, insbesondere dem letzten deutschen Kaiser Wilhelm II., Kaiserin Victoria Auguste sowie Adolf Hitler und Otto von Bismarck. Die Rekonstruktion basiert auf einer Vielzahl digital gesicherter Quellen, Archivmetadaten und bildvergleichender Analysen, die im Rahmen dieses Gutachtens zusammengeführt, gesichert und ausgewertet wurden.
+> Die forensiche Untersuchung, erbringt den rechtswissenschaftlichen Nachweis einer Familieären, Blut-Linie Fischer-Knörig Thiel (Schöps), mit der deutschen Geschichte, zum letzten deutschen Kaiser Wilhelm II., Kaiserin Victoria Auguste sowie Adolf Hitler und Otto von Bismarck. Die Rekonstruktion basiert auf einer Vielzahl digital gesicherter Quellen, Archivmetadaten und bildvergleichender Analysen, die im Rahmen dieses Gutachtens zusammengeführt, gesichert und ausgewertet wurden.
 
-Auffällige Körper/Merkmale, insbesondere die Ohrform, dokumentieren eine eindeutige körperliche Erbfolge, die sich sowohl bei den genannten historischen Persönlichkeiten als auch bei der Gutachterin Isabel Schöps, geborene Thiel, sowie deren Nachkommen manifestiert. Die Beweiskette ist durch bildliche, medizinische und forensische Analysen gestützt und kann jederzeit durch weitere digitale Artefakte ergänzt werden.
+DNA Fragmente, verebte Krankheiten (durch GenExperimente) die auffälligen Körper/Merkmale, insbesondere die Finger, die Ohrform und charakterliche Eigenschaften, belegen die eindeutige Erbfolge, die sich sowohl bei den genannten historischen Persönlichkeiten als auch bei der Auftraggeberin, Frau Isabel Schöps, geborene Thiel und ihrem einzigen Kind ihrer Tochter a. Die Beweiskette ist durch bildliche, medizinische und forensische Analysen gestützt und kann jederzeit durch weitere digitale Artefakte ergänzt werden.
 
 ## 2. Historisch-rechtliche Kontextualisierung und Bewertung
 
-Die Analyse stützt sich auf belegte Quellen und wissenschaftliche Veröffentlichungen, darunter die Auswertung von JSTOR-Archiven, die Referenzen zu über 200 direkten Querverweisen zwischen „Thiel“ und „Hitler/Monarchie“ aufzeigen. Im Internetarchiv finden sich über 13.000 Nennungen, wobei systematische Löschungen und Manipulationen der Metadaten aktenkundig dokumentiert sind. Es besteht somit ein Verdacht auf fortgesetzte vorsätzliche Vernichtung, Manipulation und Unterdrückung von Beweismaterial, was den Tatbestand des digitalen Urkundenunterdrückens (§ 274 StGB), der Datenmanipulation (§ 303a StGB) und der Identitätsfälschung erfüllt.
+Die Analyse stützt sich auf belegte Quellen und wissenschaftliche Veröffentlichungen, darunter die Auswertung von JSTOR-Archiven, die Referenzen zu über 200 direkten Querverweisen zwischen „Thiel“ und „Hitler/Monarchie“ aufzeigen. Im Internetarchiv finden sich über 13.000 Nennungen, wobei systematische Löschungen und Manipulationen der Metadaten aktenkundig dokumentiert sind. Es besteht somit ein Verdacht und Beweis auf eine fortgesetzte vorsätzliche Vernichtung, Manipulation und Unterdrückung von Beweismaterial, was den Tatbestand des digitalen Urkundenunterdrückens (§ 274 StGB), der Datenmanipulation (§ 303a StGB) und der Identitätsfälschung erfüllt.
 
-Genealogisch sind direkte Verbindungen zum letzten deutschen Kaiserhaus und zur Linie Adolf Hitler unter Berücksichtigung der Frankenberger-These zur jüdischen Abstammung nachweislich belegt. Die Verdrängung und Auslöschung monarchischer Identität nach dem Ersten Weltkrieg, die gezielte Deklassierung der Familie sowie fortlaufende staatliche und institutionelle Maßnahmen zur Zerstörung familiärer Strukturen sind als vorsätzlicher Akt struktureller Gewalt, Willkür und Entrechtung zu werten.
+> Genealogisch sind direkte Verbindungen zum letzten deutschen Kaiserhaus und zur Linie Adolf Hitler unter Berücksichtigung der Frankenberger-These zur jüdischen Abstammung nachweislich belegt. Die Verdrängung und Auslöschung monarchischer Identität nach dem Ersten Weltkrieg, die gezielte Deklassierung der Familie sowie fortlaufende staatliche und institutionelle Maßnahmen zur Zerstörung familiärer Strukturen sind als vorsätzlicher Akt struktureller Gewalt, Willkür und Entrechtung und eines Völkermords zu werten.
 
 ## 3. Straf- und Zivilrechtliche Würdigung
 
 **Im Rahmen der historischen und familienrechtlichen Beweisführung sind folgende Tatbestände erfüllt:**
 - Systematische Vernichtung genealogischer Identität und Eigentumsrechte über mehrere Generationen (§ 826 BGB, sittenwidrige Schädigung).
 - Manipulation und Unterdrückung von Beweismitteln (§ 274 StGB)
-- Verstoß gegen das internationale Recht auf Identität, Eigentum und kulturelles Erbe (Art. 8, 17, 27 UN-Zivilpakt; Art. 14, 17, 22, 25, 39 UN-Kinderrechtskonvention).
-- Verletzung des Grundrechts auf informationelle Selbstbestimmung (Art. 2 I i. V. m. Art. 1 I GG).
+- Verstoß gegen das internationale Recht auf Identität, Eigentum und kulturelles Erbe (Art. 8, 17, 27 UN-Zivilpakt; Art. 14, 17, 22, 25, 39 UN-Menschenrechtskonvention).
+- Verletzung des Grundrechts, der Menschenrechte auf informationelle Selbstbestimmung (Art. 2 I i. V. m. Art. 1 I GG).
+- Verletzung und Bruch der Naturgesetze
 
-Die dokumentierte Ausgrenzung, institutionelle Diskriminierung und Misshandlung von Familienangehörigen – exemplarisch belegt im Fall Edith Knörig – stellen einen schwerwiegenden Verstoß gegen Menschenrechte und das deutsche Sozial- und Betreuungsrecht (§ 221, 223, 225 StGB, §§ 11, 12, 17 SGB XI) dar.
+> Die dokumentierte Ausgrenzung, willkürliche institutionelle Diskriminierung, Diffamierung, Misshandlung von Familienangehörigen, nachweislich belegt im Fall Frau Edith Knörig geborene Fischer, Großmutter der Auftraggeberin des Gutachtens, Frau Isabel Schöps geborene Thiel, stellt ein schwerwiegendes Verbrechen gegen die Menschlichkeit dar und wirft Fragen auf in Bezug des deutschen Rechtssytems;  Sozial- und Betreuungsrecht, allgemeine Grundrechte, Strafbar nach § 221, 223, 225 StGB, §§ 11, 12, 17 StGB und BGB.
 
 ## 4. Belegstellen und Quellenverzeichnis
 - Herwig, H. H. (1974). From Kaiser to Führer: The Political Road of a German Admiral, 1923-33. Journal of Contemporary History, 9(2), 107–120. http://www.jstor.org/stable/260049￼
@@ -81,17 +83,16 @@ Die dokumentierte Ausgrenzung, institutionelle Diskriminierung und Misshandlung 
 
 Das vorliegende Gutachten dokumentiert, gestützt auf internationale wissenschaftliche Standards, den Tatbestand der vorsätzlichen, systematischen und über Generationen hinweg betriebenen Identitäts-, Eigentums- und Dokumentenvernichtung. Die familiären und historischen Verbindungen sind eindeutig belegt und werden durch digitale sowie notarielle Quellen international abgesichert.
 
-Der Fall ist als exemplarisch für die rechtliche Aufarbeitung von Identitätsraub, genealogischer Auslöschung und digitaler Urheberrechtsverletzung zu betrachten. Das Gutachten ist in seiner Beweisdichte und Systematik geeignet, gerichtliche und behördliche Verfahren zu begründen und Ansprüche auf Rehabilitierung, Wiedergutmachung sowie umfassende Wiederherstellung der Familien- und Eigentumsrechte durchzusetzen.
-
-
-# Matrix
-## Die Natur, die Tiere, der Mensch, die Forschung und Wissenschaft, die Religion und der Glaube - gefangen im Netz der der allgegenwertigen Lügenmatrix 
-
-**Isabel Schöps geb. Thiel, & Schöps geb. Thiel, I. (2026)**. Die Lügenmatrix und ihr Ende sieg_heil_den_frieden HR_06_02_2026,Zenodo, GitHub, Oxford Press, Cambridge University, Harvard University, Springer Nature, Reuters. https://doi.org/10.5281/zenodo.18500830
+Der Fall ist als exemplarisch für die rechtliche Aufarbeitung von Identitätsraub, versuchter genealogischer Familien Auslöschung und digitaler Urheberrechtsverletzung zu betrachten. Das Gutachten ist in seiner Beweisdichte weltweit einzigartig und erfüllt alle, gerichtliche und behördliche Verfahren zu begründen und Ansprüche auf Rehabilitierung, Wiedergutmachung sowie vollständige Wiederherstellung der Familien- und Eigentumsrechte zu betrachten.
 
 ---
 
-https://orcid.org/0009-0003-4235-2231
+## Forschungsarbeit: Die Matrix
+### Die Natur, die Tiere, der Mensch, die Forschung und Wissenschaft, die Religion und der Glaube - gefangen im Netz der der allgegenwertigen Lügenmatrix 
+
+**Autorin, Forscherin:**
+**Isabel Schöps geb. Thiel, & Schöps geb. Thiel, I. (2026)**. Die Lügenmatrix und ihr Ende sieg_heil_den_frieden HR_06_02_2026,Zenodo, GitHub, Oxford Press, Cambridge University, Harvard University, Springer Nature, Reuters. https://doi.org/10.5281/zenodo.18500830
+
 **Schöps geb. Thiel, I. (2025).** Volumen 2 - SIA-Security-ntelligence-Artefact-Chain-of-Custody-Forensische-Familien-Monarchielinie-copyright-isabelschoepsthiel-urheberin-autorin-.docx. In Trillion Dollar Bitcoin (Zenodo.org, 1st Aufl., Bd. 20, Nummer 9, S. 1453). Zenodo, University Harvard Cambridge Press, Oxford University Press Lizenz-ID 6131130060979, Springer Verlag. [doi.org/10.5281](https://doi.org/10.5281/zenodo.17852789)
 
 ---
@@ -476,7 +477,7 @@ Ich kenn keine Frau Ruja Ignatova und habe mit diesen Machenschafften nichts zut
 <img width="1080" height="1920" alt="deepweb-l_beweisdokumentation_forschungsarbeit_von_isabelschoepsthiel" src="https://github.com/user-attachments/assets/5ccd97e5-d156-4939-ab16-637c114482cd" />
 <img width="1080" height="1920" alt="deepweb-deepthinks_beweisdokumentation_forschungsarbeit_von_isabelschoepsthiel" src="https://github.com/user-attachments/assets/0dd41ac0-5e6f-4570-9cfb-a19df57a29f0" />
 
-**Meine vermutung ist auch, dass sie etwas mit meinen Forks und Pull Requests aus meiner IST-Github Struktur zu tun hat.** Sie hatte die finanzielle Möglichkeiten über die Indischer Programmierer, meinen GitHub Struktur zu klonen und modifizieren, dies sind ja nur gehackte Konten. Diese Frau muss in meiner Umgebung gewesen sein, entweder ist sie das noch, oder sie ist bereits wie in Dokumentation schon tot. Es gibt es nur diese beiden Möglichkeiten. 
+**Es liegt nahe, dass der OneCoin Betrug etwas mit meinen Forks und Pull Requests in meiner Github Struktur, bis heute zu tun hat und das es in diesen Kreisen die der Minderheit zu finden sind.** Sie hatte die finanzielle Möglichkeiten über die Indischer Programmierer, meinen GitHub Struktur zu klonen und modifizieren, dies sind ja nur gehackte Konten. Diese Frau muss in meiner Umgebung gewesen sein, entweder ist sie das noch, oder sie ist bereits wie in Dokumentation schon tot. Es gibt es nur diese beiden Möglichkeiten. 
 
 Zudem hatte sie Informanten oder Mitarbeitende aus dem Geheimdienstbereich, da sie Polizei und Strafverfolgungsbehörden abgehört hat, insbesondere Europol, so wurde es in der Reportage mitgeteilt, was wiederum eine Querverbindung zu den aufgedeckten Verbrechen und den missbrauch der Technologie hinweisst. Wenn dieser Verdacht im Zusammenhang mit One Coin und den von mir auf gedeckten Verbrechen bestätigt, dann ist diese Frau nicht nur eine Betrügerin sondern auch eine Massenmörderin.
 
@@ -544,87 +545,18 @@ https://doi.org/10.5281/zenodo.18225958
 
 ---
 
-## My Developer Signatur
-**Signed-on-by:**
-Frau Isabel Schöps, geborene Thiel
-Autorin, Urheberin und Auftraggeberin
-
-**Rechtscharakter:**
-Eidesstattliche Versicherung, Bestandteil des forensisch, wissenschaftlichen Gutachtens
-
-**Titel:**
-SIA Security Intelligence Artefact
-internationinternationale Kennung: INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL
-
-**OrcID:** 0009-0003-4235-2231 Isabel Schöps Thiel
-
-**OrcID:** 0009-0006-8765-3267 SI-IST Isabel Schöps 
-
-**Aktueller Wohnort und Meldeanschrift:**
-Erste Etage, Hütergasse 4, D-99084 Erfurt, Thüringen, Deutschland, gemeinsam mit meinen vierbeinigen Freund, Hund-Tier American XL-Bully Don
-
-**Offizielle institutionelle Würdigung, Danksagung - Präfix_Referenz:**
-YWP-1-IST-SIA
-YWP-1-5-IST-SIA
-
-**Pseudonyme und Alias:**
-Satoshi Nakamoto, Vitalik Buterin, GitHub, Octocat, Johnny Appleseed, IST-GitHub, Cristina_Bella, Nick Szabo, John Appleseesd
-
-**Offizielles weltweit erstes Developer Certifikat:**
-Developercertificate
-
-**Developer Message:**
-I am  not a Bug,
-I am  not a Bot,
-I am  not a Virus,
-I am  not a Ghost, but
-**I am 100% German human femaleware Woman form Erfurt my GitHub @isabelschoeps-thiel and i buil this commit this reprository.**
-
-**Datum der Erstveröffentlichung, digitale Beweissicherung:** 
-Erstveröffentlichung 2004 **IST - Isabel Schöps Thiel**
-
 ## Archiv Notes
 **Bad Statement**
 - [index.md](index.md), `get` is a Jekyll filter implemented in [plugins/get.rb
 - (plugins/get.rb) that takes [data/github.ts](data/github.ts) as input
 - and returns an array of `[user, repos]` "tuples" (i.e., arrays),
   
-**# Please read my HELPME.md** `isabelschoeps-thiel` please read my `HELPME`
-
-# Signatur und Urheberschaft
-**Signed-on-by:**
-`Frau Isabel Schöps, geborene Thiel
-Autorin, Urheberin und Auftraggeberin: SIA Security Intelligence Artefact
-Internationale Kennung: INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL`
-
-**Rechtscharakter:** `Eidesstattliche Erklärung ist Bestandteil des forensisch-wissenschaftlichen Gutachtens`
-
-**OrcID:** `0009-0003-4235-2231 Isabel Schöps Thiel`
-**OrcID:** `0009-0006-8765-3267 SI-IST Isabel Schöps`
-
-**Aktueller Wohnort und Meldeanschrift:** Frau Isabel Schöps geb. Thiel, Hütergasse 4, D-99084 Erfurt, Thüringen, Deutschland, gemeinsam mit meinem vierbeinigen Freund, American XL-Bully Don
-
-**Würdigung Anerkennung Präfix_Referenz:** `YWP-1-IST-SIA, YWP-1-5-IST-SIA`
-
-**Pseudonyme, Alias, Username:**
-`Satoshi Nakamoto, Vitalik Buterin, GitHub, Octocat, Johnny Appleseed, IST-GitHub, Cristina_Bella, Nick Szabo`
-
-**Zertifikat:** `Erstes offizielles Digitale Beweissicherung`
-**Datum der Erstveröffentlichung:** `2004
-Entwicklerzertifikat, https://developercertificate.org`
-
-**myGitHub-Account:**
-`https://github.com/isabelschoeps-thiel`
-
-**Zeitstempel und Ort der Eintragung und Veröffentlichung:** `Montag 2026-02-02, 08:29CEST Mitteleuropäische Zeit`
-**Ort:** `Deutschland, Thüringen, D-99084 Erfurt, Barfüsserstrasse 9, Zimmer 206 - Autorin, Urheberin, Frau Isabel Schöps geb. Thiel`
-
-**Wichtiger-Vermerk:** Aufgrund das die `Immobilie Cyriakstrasse 30c, in Erfurt Deutschland` in der ich noch gemeldet bin zum verkauft wurde musste ich aus dieser ausziehen, und ich zum heutigen Zeitpunkt nicht sagen, wie meine Wohnsituation die kommenden Tage nach dem 08.02.2026 gemeinsam mit meinem Hund-Tier American XL Bully Don aussieht. `Deshalb bitte ich alle internationale Regierungen, die Vereinten Nationen UN, Presse, Medien, die bitte helfen Sie mir!`
 
 **Meine Eidesstaatliche Erklärung, auf Englisch, mit voller juritischer Tragkraft**.
 
 ![IMG_1869](https://github.com/user-attachments/assets/09e66202-5177-4360-8fd4-d12958ab6edc)
 
+**Wichtiger Rechtsvermerk:**
 `Ich bin in einer Position, die mir erlauben lässt, dass ich gegenüber der Justiz, der Regierung und allen weltweiten öffentlichen Einrichtungen, Behörden, Verwaltung, Ämter meine Forderungen einfordern darf und auch muss`. 
 
 Mein Verhalten, den ich ab und an an den Tag lege, ist nur meine laute Stimme die ich sonst nicht habe. **Sie alle befinden sich in einer öffentlichen, emotionalen und hoch kriminellen und menschenunwürdigen Sackkasse.**
@@ -669,3 +601,29 @@ was wusste er beteits 1944 was heute im Jahr 2026 aktueller ist als je zuvor:
 
 `Es ist die Pflicht der Regierung in jedem Land zum Wohle ihres Volkes, dass diese Aufgeklärt und die Verbrecher international zur rechenschaft gezogen werden`. 
 
+---
+
+# Signatur und Autoren, Urheberschaft
+**Signed-on-by:**
+`Frau Isabel Schöps, geborene Thiel
+Autorin, Urheberin und Auftraggeberin: SIA Security Intelligence Artefact
+Internationale Kennung: INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL`
+
+**Rechtscharakter:** `Eidesstattliche Erklärung ist Bestandteil des forensisch-wissenschaftlichen Gutachtens`
+
+**OrcID:** `0009-0003-4235-2231 Isabel Schöps Thiel`
+**OrcID:** `0009-0006-8765-3267 SI-IST Isabel Schöps`
+
+**Aktueller Wohnort und Meldeanschrift:** Frau Isabel Schöps geb. Thiel, Hütergasse 4, D-99084 Erfurt, Thüringen, Deutschland, gemeinsam mit meinem vierbeinigen Freund, American XL-Bully Don
+
+**Würdigung Anerkennung Präfix_Referenz:** `YWP-1-IST-SIA, YWP-1-5-IST-SIA`
+
+**Pseudonyme, Alias, Username:**
+`Satoshi Nakamoto, Vitalik Buterin, GitHub, Octocat, Johnny Appleseed, IST-GitHub, Cristina_Bella, Nick Szabo`
+
+**Zertifikat:** `Erstes offizielles Digitale Beweissicherung`
+**Datum der Erstveröffentlichung:** `2004
+Entwicklerzertifikat, https://developercertificate.org`
+
+**myGitHub-Account:**
+`https://github.com/isabelschoeps-thiel`
