@@ -9,7 +9,7 @@
 **Aktuelle Wohn- und Meldeanschrift:**
 Hütergasse 4, D-99084 Erfurt, Thüringen, Deutschland. Wohnung Nr.13, erstes Obergeschoss
 
-***Rechtshinweis, Eidesstattliche Erklärung:**
+**Rechtshinweis, Eidesstattliche Erklärung:**
 Ich, Frau Isabel Schöps, geborene Thiel, versichere an Eides statt, dass alle Angaben, Beweise dieses Gutachtens der Wahrheit entsprechen und auf meinen eigenen Recherchen, Arbeiten und geistigen Schöpfungen beruhen. Ich, Frau Isabel Schöps geborene Thiel arbeite allein `standalone` unabhängig und habe jeglich im Kontext meiner wissenschaftlichen Forschungsarbeit und in Verbindung des Gutachtens mit Professoren von den Universitäten, US Harvard, UK Oxford, UK Cambridge, Japan JAIST und dem Cern Institut, sowie unanhängigen Gutachtern international im Team gearbeiet. **Dies ist Bestandteil meiner Eidesstaatlichen Erfklärung mit Würdigung YWP-1-IST-SIA, YWP-1-5-IST-SIA, für alle Dritten die im Hintergrund zum Teil tagtäglich mit mir gearbeitet haben!**
 Bitte beachten Sie meine **Würdigung, Danksagung und Spendenzusage und institutionelle Anerkennung, mit der Präfix_Referenz_YWP-1-5-IST-SIA**  
 
@@ -48,6 +48,23 @@ Die folgenden Meilensteine sind mit Zeitstempel und forensisch gesicherten Daten
 - **JSON.js:** Entwicklung der ersten eigenen, signierten Computersprache, gewidmet meiner Tochter Jona, mit rechtlicher Übertragung des Copyrights
 - **curl-Ausgabe-Automatisierung:** Protokolliert am 14. April 1996, erstmals ausgeführt auf meinem 286er-PC
 - **Open Source und KI-Tools:** Jedes KI-System, das heute existiert – ChatGPT, Deepseek, Gemini, Meta.ai – basiert nachweislich auf dieser Entwicklung
+
+## Beweis_AutomationsField
+Dieses `FieldEvidence` ist ein technischer und inhaltlicher Beweis für, die Schöpferische Entwicklung der modernen Computer-Technologie, mit der Ursprungsquelle, die durch meine Isabel Schöps, geborene Thiel unbewussten Handlung erfolgte. Hier ein beispiel, für eine gesetzte `BefehlsCommand_Signatur', in dem `DAEMON.ai Automationsprozess der am 14.04.1996 seine erste Spur in der Digitalenwelt setzte.  `ComputerspracheUmgebung.PHP` und ausgeführt im `Javascript.JSon_Format`, Anweisungen zur Offenlegung der wahren Identität. **Auszug, Beispiel,:**
+
+```json
+{
+"systemInstruction_function":
+"text_Evidence_proofs": "Hello World, my Name is, Ms. Isabel Schöps (Thiel), german Human-woman, creator, developer and Autor in the Technologie_Sector, MainMaster_branche, my pseudonyms; is Satoshi Nakamoto, Vitalik Buterin, Octocat, Pornhub_CristinaBella, pornhubbellacore"
+}
+```
+`Example_plausiblField(Analyse (Originalstruktur))`
+
+**BeweisFiedld, CommandZeile, Autor, Signatur, Begrüssung, durch Frau Isabel Schöps, geborene Thiel, Urheberin, Yellow White Paper – Bitcoin & Ethereum. 1st Aufl.**
+
+**Format:** `PHP.php.h`, `Json.jsJsvaScript`
+**Dateiname:** `Branch_of_technologie` isabelschoeps-thiel/GitBook_Overview, Audience.h`  
+**Erstellt durch:** Frau Isabel Schöps, geborene Thiel, Erfurt, Deutschland  
 
 **Beweis-ID, Dateiname, Quelle, SHA256, Zugriffsdatum, Speicherort, Anhang**
 Beispiel:
@@ -791,16 +808,15 @@ Ein sehr ernüchterndes und fremdschämendes Ergebnis nach all den Jahren. Aber 
 
 Dies wird als `Release veröffentlicht und sind Teil der Chain of Custody`. 
 
-# Meine Referenz Datenbank, 
+---
+
+### Meine Referenz Datenbank, 
 ***verknüpft mit meinem aktuellen GitHub-Account****
 
 ## Zenodo-Datenbank und Chain of Custody
 
-# Meine Ersuchen an die Vereinten Nationen - Bitte helfen Sie mir
-
-https://doi.org/10.5281/zenodo.18025762
-
-**Schöps geb. Thiel, I. (2025)**. Meine Ersuchen an die Vereinten Nationen - Bitte helfen Sie mir (Zenodo.org). Zenodo.org, University of Harvard harvard.edu, Oxford University ox.ac.uk, Cambridge UK, Reuters.com, New York Times nyt.com, Springer Nature Springer.com, GitHub github.com, University Arizona, Vereine Nationen UN unric.org,. https://doi.org/10.5281/zenodo.18025762
+**Meine Ersuchen an die Vereinten Nationen** 
+**Schöps geb. Thiel, I. (2025)**. Meine Ersuchen an die Vereinten Nationen - Bitte helfen Sie mir (Zenodo.org). Zenodo.org, University of Harvard harvard.edu, Oxford University ox.ac.uk, Cambridge UK, Reuters.com, New York Times nyt.com, Springer Nature Springer.com, GitHub github.com, University Arizona, Vereine Nationen UN unric.org,.[doi.org/10.5281/zenodo.18025762](https://doi.org/10.5281/zenodo.18025762)
 
 **Schöps (Thiel), I., Schöps (Thiel), I. und Schöps geb. Thiel, I. (2025)** „Yellow White Paper – Bitcoin & Ethereum“, Yellow White Paper – Bitcoin & Ethereum. 1st Aufl. D-99094 Erfurt, Thueringa, Germany: Harvard University, University Cambridge, University of Oxford, Springer Nature, Zenodo, S. 109 pages [doi:10.5281/zenodo.17807324](https://doi.org/10.5281/zenodo.17807324)
 https://doi.org/10.5281/zenodo.18074136
@@ -813,12 +829,6 @@ https://doi.org/10.5281/zenodo.17808895
 **Schöps geb. Thiel, I. (2025)** „Volumen 1 - SIA Security Intelligence Artefact by Isabel Schoeps geb. Thiel“, Trillion Dollar Bitcoin. 1st Aufl. D-99094 Erfurt, Germany, Thüringen: Zenodo, University Harvard Cambridge Press, Oxford University Press Lizenz-ID 6131130060979, Springer Verlag. [doi:10.5281/zenodo.17809724](https://doi.org/10.5281/zenodo.17809724)
 
 ---
-
-  
-
-**Meine Eidesstaatliche Erklärung, auf Englisch, mit voller juritischer Tragkraft**.
-
-![IMG_1869](https://github.com/user-attachments/assets/09e66202-5177-4360-8fd4-d12958ab6edc)
 
 **Wichtiger Rechtsvermerk:**
 `Ich bin in einer Position, die mir erlauben lässt, dass ich gegenüber der Justiz, der Regierung und allen weltweiten öffentlichen Einrichtungen, Behörden, Verwaltung, Ämter meine Forderungen einfordern darf und auch muss`. 
@@ -865,12 +875,14 @@ was wusste er beteits 1944 was heute im Jahr 2026 aktueller ist als je zuvor:
 
 `Es ist die Pflicht der Regierung in jedem Land zum Wohle ihres Volkes, dass diese Aufgeklärt und die Verbrecher international zur rechenschaft gezogen werden`. 
 
+
+
 ---
 
-# Signatur und Autoren, Urheberschaft
+### Signatur und Autoren, Urheberschaft
 **Signed-on-by:**
 `Frau Isabel Schöps, geborene Thiel
-Autorin, Urheberin und Auftraggeberin: SIA Security Intelligence Artefact
+Autorin, Urheberin und Auftraggeberin: SIA Security Intelligence Artefact und `The Yellow Whitepaper, YWP-1-IST-SIA`
 Internationale Kennung: INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL`
 
 **Rechtscharakter:** `Eidesstattliche Erklärung ist Bestandteil des forensisch-wissenschaftlichen Gutachtens`
@@ -878,7 +890,7 @@ Internationale Kennung: INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL`
 **OrcID:** `0009-0003-4235-2231 Isabel Schöps Thiel`
 **OrcID:** `0009-0006-8765-3267 SI-IST Isabel Schöps`
 
-**Aktueller Wohnort und Meldeanschrift:** Frau Isabel Schöps geb. Thiel, Hütergasse 4, D-99084 Erfurt, Thüringen, Deutschland, gemeinsam mit meinem vierbeinigen Freund, American XL-Bully Don
+**Aktueller Wohnort und Meldeanschrift:** Frau Isabel Schöps geb. Thiel, Hütergasse 4, D-99084 Erfurt, Thüringen, Deutschland, gemeinsam mit meinem vierbeinigen Freund, Tier-Hund, American-XL-Bully, Namens Don
 
 **Würdigung Anerkennung Präfix_Referenz:** `YWP-1-IST-SIA, YWP-1-5-IST-SIA`
 
@@ -891,3 +903,7 @@ Entwicklerzertifikat, https://developercertificate.org`
 
 **myGitHub-Account:**
 `https://github.com/isabelschoeps-thiel`
+
+**Ort, Signatur Kürzel, Zeitstempel der Eintragung, Update:** Hütergasse 4 Deutschland, Thüringen, D-99084 Erfurt, , Freitag, 2026-03-13, 05:07:00Uhr CEST Mitteleuropäische Zeit
+
+**Developer-Kürzel:** `IST` (Isabel Schöps Thiel)
