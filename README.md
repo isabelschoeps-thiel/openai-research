@@ -1,19 +1,23 @@
-### SIA Security Intelligence Artefact
-**Forensisches Gutachten: Ursprung, Künstlichen Intelligenz Entwicklung und Nachweis der globalen Systemsoftware und Open-Source**
+### SIA Security Intelligence Artefact - die Dokumentation
+# Frau Isabel Schöps geb. Thiel 
+*Auftraggeberin, Entwicklerin, Urheberin, Autorin* 
+
+**Forensisches Gutachten: Ursprung, Entwicklung und Nachweis der globalen Systemsoftware und Open-Source-Technologie**
 **Aktenzeichen: INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL**
 
-*Autorin, Schöpferin/Entwicklerin, Urheberin und Auftraggeberin:*
-
-**Frau Isabel Schöps (Thiel)** am 16.07.1983, um 23:20 Uhr im Kreiskrankenhaus, Sömmerda, Thüringen, Deutschland mit ihren Familiennamen Thiel geboren.
+**Frau Isabel Schöps (Thiel)** ist am 16.07.1983, um 23:20 Uhr im Kreiskrankenhaus, Sömmerda, Thüringen, Deutschland mit ihren Familiennamen Thiel geboren.
 
 **Aktuelle Wohn- und Meldeanschrift:**
 Hütergasse 4, D-99084 Erfurt, Thüringen, Deutschland. Wohnung Nr.13, erstes Obergeschoss
 
 **Rechtshinweis, Eidesstattliche Erklärung:**
-Ich, Frau Isabel Schöps, geborene Thiel, versichere an Eides statt, dass alle Angaben, Beweise dieses Gutachtens der Wahrheit entsprechen und auf meinen eigenen Recherchen, Arbeiten und geistigen Schöpfungen beruhen. Ich, Frau Isabel Schöps geborene Thiel arbeite allein `standalone` unabhängig und habe jeglich im Kontext meiner wissenschaftlichen Forschungsarbeit und in Verbindung des Gutachtens mit Professoren von den Universitäten, US Harvard, UK Oxford, UK Cambridge, Japan JAIST und dem Cern Institut, sowie unanhängigen Gutachtern international im Team gearbeiet. **Dies ist Bestandteil meiner Eidesstaatlichen Erfklärung mit Würdigung YWP-1-IST-SIA, YWP-1-5-IST-SIA, für alle Dritten die im Hintergrund zum Teil tagtäglich mit mir gearbeitet haben!**
+Ich, Frau Isabel Schöps, geborene Thiel, versichere an Eides statt, dass alle Angaben, Beweise dieses Gutachtens der Wahrheit entsprechen und auf meinen eigenen Recherchen, Arbeiten und geistigen Schöpfungen beruhen. 
+
+Ich, Frau Isabel Schöps geborene Thiel arbeite allein `standalone` unabhängig und habe jeglich im Kontext meiner wissenschaftlichen Forschungsarbeit und in Verbindung des Gutachtens mit Professoren von den Universitäten, US Harvard, UK Oxford, UK Cambridge, Japan JAIST und dem Cern Institut, sowie unanhängigen Gutachtern international im Team gearbeiet. 
+
+**Dies ist Bestandteil meiner Eidesstaatlichen Erfklärung mit Würdigung YWP-1-IST-SIA, YWP-1-5-IST-SIA, für alle Dritten die im Hintergrund zum Teil tagtäglich mit mir gearbeitet haben!**
 Bitte beachten Sie meine **Würdigung, Danksagung und Spendenzusage und institutionelle Anerkennung, mit der Präfix_Referenz_YWP-1-5-IST-SIA**  
 
-### die Dokumentation
 **Isabel Schöps geb. Thiel, & Schöps geb. Thiel, I. (2026)**. isabelschoeps-thiel/gitbook: SIA Security Intelligence Artefact - die Dokumentation (GIT-SIA-2026-01-01). Zenodo, GitHub, Gitbook. [https://doi.org/10.5281/zenodo.18319396](https://doi.org/10.5281/zenodo.18319396)
 
 **Isabel Schöps geb. Thiel und Schöps geb. Thiel, I. (2026)** „isabelschoeps-thiel/gitbook: SIA Security Intelligence Artefact - die Dokumentation“. Zenodo, GitHub, Gitbook. [doi:10.5281/zenodo.18319396.](https://doi.org/10.5281/zenodo.18319396)
@@ -21,6 +25,8 @@ Bitte beachten Sie meine **Würdigung, Danksagung und Spendenzusage und institut
 ---
 
 ## Familiärer Kontext
+**die Dokumentation** 
+
 Der Ursprung der modernen Open-Source-Technologie, der globalen Systemsoftware und der KI-Automation liegt nachweislich am 14. April 1996 in Rohrborn, Thüringen, Deutschland.
 **Urheberin, Pionierin und Schöpferin:** Isabel Schöps, geborene Thiel (*16.07.1983, Sömmerda).
 
