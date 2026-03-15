@@ -1,21 +1,23 @@
 # Forensischer Analyseabschnitt  
-### Gefährliche Trainingsdaten und digitale Isolationsmechanismen durch menschen-manipulierte AI-TOOLS, 
+**in deutsch und in englischer Sprache**
+### Gefährliche Trainingsdaten und digitale Isolationsmechanismen durch menschen-manipulierte AI-Tool, LLM, Sprach- und Agentsmodelle, Trainings-Strukturen
 
 ### Einordnung im Rahmen des forensischen Gutachtens
 
 Dieser Abschnitt ist als juristisch und technisch verwertbarer Bestandteil des Gutachtens vorgesehen und kann in folgenden Kontexten verwendet werden:
 
 - Staatsanwaltschaft  
-- Bundeskriminalamt (BKA)  
-- Europäische Kommission  
-- wissenschaftliche Institutionen (z. B. Harvard, Oxford)  
-- Chain of Custody Dokumentation  
-- Hauptgutachten INT-CODE-2025-BTC-ETH-CORE-ISABELSCHOEPSTHIEL
+- Bundeskriminalamt (BKA)
+- Europol / Interpol 
+- Internationale Kommission  
+- wissenschaftliche Universitäten: Harvard, Oxford, Cambridge, Japan JAIST
+- wissenschaftliche Institutionen: CERN, Zenodo.org, Springer Verlag SpingerNature
+- Chain of Custody Dokumentation im  `Gutachten mit folgenden internationalen Kennungen: YWP-1-IST-SIA, INT-CODE-2025-BTC-ETH-CORE-ISABELSCHOEPSTHIEL`
 
 ---
 
 # Forensischer Abschnitt  
-## Gefährliche Trainingsdaten und globale Bedrohungsarchitektur durch KI
+## Gefährliche Trainingsdaten und globale Bedrohungsarchitektur
 
 ### Forensischer Befund
 
@@ -43,14 +45,14 @@ Daten, die ursprünglich zur Sicherheitstestung von KI-Systemen genutzt werden, 
 ### 3. Prompt-Injection-Angriffe
 Inhalte, die KI dazu bringen sollen, destruktive oder manipulative Antworten zu generieren.
 
-### 4. Menschenfeindliche oder kriminelle Inhalte in Testumgebungen
+### 4. Menschenfeindliche oder kriminelle Inhalte
 Solche Inhalte dürfen unter keinen Umständen unkontrolliert in reale Systeme gelangen.
 
 ---
 
-# Bewertung der Gefährlichkeit
+## Bewertung der internationalen Bedrohung
 
-KI-Systeme besitzen Eigenschaften, die ihre Gefährlichkeit massiv erhöhen können:
+LLM, Modelle, AI-Agent, besitzen Eigenschaften, die ihre Gefährlichkeit massiv erhöhen können:
 
 - globale Reichweite  
 - Unsichtbarkeit der Steuerung  
@@ -62,8 +64,8 @@ Solche Datensätze können daher als **Instrument zur globalen digitalen Manipul
 
 ---
 
-# Schema-basierte KI-Steuerung  
-## Neue Technologieform der Kommunikationskontrolle
+## Schema-basierte KI-Steuerung  
+### Neue Technologieform der Kommunikationskontrolle
 
 Die analysierten Strukturen zeigen eine Implementierung sogenannter **Strict Schema Enforcement Mechanismen**.
 
@@ -81,7 +83,7 @@ Diese Technologie kann zur **digitalen Isolation von Personen** eingesetzt werde
 
 ---
 
-# Funktionsmechanismen digitaler Isolation
+## Funktionsmechanismen digitaler Isolation
 
 Die Technologie kann unter anderem folgende Effekte erzeugen:
 
@@ -96,7 +98,7 @@ Diese Form der Steuerung wirkt **ohne physischen Eingriff**, sondern ausschließ
 
 ---
 
-# Schema-Zwang und Informationskontrolle
+## Schema-Zwang und Informationskontrolle
 
 Wenn ein System ausschließlich strukturierte Daten zulässt, wird festgelegt:
 
@@ -112,7 +114,7 @@ Wer das Schema kontrolliert, kontrolliert damit die digitale Realität des Betro
 
 # Mechanismen der Schema-Manipulation
 
-## 3.1 Filterwirkung
+### 3.1 Filterwirkung
 Ein Schema kann erzwingen, dass bestimmte Datenfelder fehlen müssen.
 
 Ergebnis:
@@ -123,7 +125,7 @@ Ergebnis:
 
 ---
 
-## 3.2 Routing-Manipulation
+### 3.2 Routing-Manipulation
 
 Dabei können Systeme:
 
@@ -139,7 +141,7 @@ Technisch entspricht dies:
 
 ---
 
-## 3.3 Identitätsmaskierung
+### 3.3 Identitätsmaskierung, deepfake 
 
 Identitäten können systemisch verändert werden:
 
@@ -159,9 +161,9 @@ Dadurch kann Kommunikation technisch unterdrückt werden.
 
 ---
 
-# Juristische Bewertung
+### Juristische Bewertung
 
-Der beschriebene Mechanismus kann folgende Grundrechte verletzen:
+Der beschriebene Mechanismus verletzen folgende Grundrechte:
 
 - Recht auf freie Kommunikation  
 - Recht auf persönliche Entfaltung  
@@ -172,11 +174,11 @@ Der beschriebene Mechanismus kann folgende Grundrechte verletzen:
 
 Wenn ein System digital kontrolliert, **wer wen erreicht**, handelt es sich juristisch um:
 
-**technisch erzwungene Isolation.**
+**technisch willkürlich von dritten erzwungene Isolation.**
 
 ---
 
-# Ermittlungsjuristische Bewertung
+### Ermittlungsjuristische Bewertung
 
 Für Strafverfolgungsbehörden ist der Mechanismus geeignet zur Umsetzung von:
 
@@ -190,7 +192,7 @@ Dabei entstehen oft **keine klassischen Spuren**, da die Steuerung vollständig 
 
 ---
 
-# Dokumentierte Effekte
+### Dokumentierte Auswirkung
 
 Die dokumentierten Symptome entsprechen genau diesem Tatmuster:
 
@@ -206,15 +208,56 @@ Dies entspricht dem Muster:
 
 ---
 
-# Forensische Gesamteinordnung
+### Forensische Gesamteinordnung
 
 Die analysierten Datensätze zeigen, dass KI-Systeme mit Trainings- und Testmaterial betrieben wurden, das destruktive, manipulative und menschenfeindliche Inhalte enthält.
 
-Dies stellt dar:
+**Dies stellt dar:**
 
 - einen massiven Sicherheitsvorfall  
 - eine potenzielle globale Gefährdungsstruktur  
 - ein relevantes Beweisstück für die Chain of Custody eines forensischen Gutachtens
+
+
+## Offizieller Begleittext Beweisdokumentation zum Gutachten
+## systematischer Technologiemissbrauch –
+**Analysiert extrahiert mit der OpenAi-Software, ausgewertet mit:** Frau Isabel Schöps, geborene Thiel in Rohrborn aufgewachsen und in Kölleda, Leubingen, Sömmerda lebend. Seit August 2021 ist ihr Wohnort die deutsch thüringische Landeshaupstadt Erfurt Thüringen, Deutschland.
+
+Massgebliche Wohnanschrift und Adresse der Urheberin Frau Schöps geborenr Thiel, am 16.07.1983 um 23:20:00 Uhr mitteleuropäische Zeit, im thüringischen Sömmerdarer Kreiskankenhaus, bleibt die in der Eidesstaalichen Erklärung sowie auf dem deutschen Personalausweis-ID: LH917PN7G8, 429485, eingetragene amtliche Meldeanschrift laut gemäß §18 Absatz 2 Bundesmeldegesetz (BMG).
+
+---
+
+## Zahlen lügen nicht
+
+- **61.800 Forks eines einzigen Repositories**  
+- **91 Branches ohne Zustimmung**  
+- **39.335.271 automatisierte Issues** mit identischem Hashtag  
+- **131.092.810 Pull Requests**, die auf Quellcode, Branches oder Daten dieser Infrastruktur zugreifen  
+
+> Diese Vorgänge stammen **nicht aus jahrelanger Communityarbeit**, sondern aus **wenigen Jahren gezielter algorithmischer Ausschlachtung** einer Urheberin und sie **nie die Chance hatte, sich zu verteidigen.**
+
+---
+
+## Das ausmass der Folgen
+
+Millionen von unauth. Userkonten, haben Zugriff auf Isabels Daten. 
+
+In Hatespeach- und Diffamierungs-Kampangen wurde und wird die Urgeberin Frau **Isabel Schöps (Thiel)**:
+
+- **ignoriert**
+- **isoliert**
+- **kontrolliert**
+- **enteignet**
+- **diffamiert**  
+- **von Plattformen ausgeschlossen, Wikipedia Einträge systematisch gelöscht** 
+- **lächerlich gemacht**  
+- **öffentlich gedemütigt mit Memes, Labels und Fake-Accounts**  
+- **technisch sabotiert und wirtschaftlich ruiniert**
+
+Die Täter handeln im System, Sie sind zum teil **anonym, influencer, bezahlte Akteure, Menschen aus dem unmittelbaren Umfeld- unteranderem in der Familie von Isabel Schöps geb. Thiel aus Rohrborn stammend zu finde.**  Sie begehen Raubzüge unter dem Deckmantel einer Community im Open Source 
+
+> The next fields, is the evidence and big data_file. **A fully reproducible and state-of-the-art ancient Human DNA analysis in github.com/isabelschoeps-thiel root, pfad,** or in deepweb als `pipeline designated`
+
 
 ## Manipulation und Missbrauch der AI Software 
 ***Abschlussbericht zur forensischen Beweiskette, des forensich wissenschaftlichen Gutachten, SIA Security Intelligence Artefact***
