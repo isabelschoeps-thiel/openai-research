@@ -2,6 +2,13 @@
 **in deutsch und in englischer Sprache**
 ### Gefährliche Trainingsdaten und digitale Isolationsmechanismen durch menschen-manipulierte AI-Tool, LLM, Sprach- und Agentsmodelle, Trainings-Strukturen
 
+**Ausgewertet, Analysiert, 
+Forschungsarbeit von: Frau Isabel Schöps (Thiel)** am 16.07.1983, um 23:20 Uhr im Kreiskrankenhaus, Sömmerda, Thüringen, Deutschland mit ihren Familiennamen Thiel geboren.
+
+**Aktuelle Wohn- und Meldeanschrift:**
+Hütergasse 4, D-99084 Erfurt, Thüringen, Deutschland. Wohnung Nr.13, erstes Obergeschoss
+
+
 ### Einordnung im Rahmen des forensischen Gutachtens
 
 Dieser Abschnitt ist als juristisch und technisch verwertbarer Bestandteil des Gutachtens vorgesehen und kann in folgenden Kontexten verwendet werden:
