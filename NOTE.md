@@ -1,5 +1,5 @@
 # NOTE 
-### Eingesetzte Software, Plattformen und technische Systeme
+### Eingesetzte Software, Prüfverfahren, Plattformen und technische Systeme
 **Protokollierte und dokumentierte Werkzeuge der forensischen Beweissicherung, Datenaufbereitung und Dokumentation (Stand 2024–2026):**
 
 **1. Künstliche Intelligenz / Software Version**
@@ -49,11 +49,11 @@ Die Urheberin Isabel Schöps (Thiel) hat ausschließlich die vollständige, unve
 - Quer-Algorithmen,
 - Metadatenextraktion,
 - Blockchain-Abgleich,
-- **Prüfung durch Dritte;** wie `Foschern, Professoren, Gutachtern, Institute, Universitäten
+- **Prüfung durch Dritte;** wie `Foschern, Professoren, Gutachtern, Institute, Universitäten`
 
 Die in den Sachverständigengutachten, Stellungnahmen und Protokollen wiedergegebenen Auswertungsergebnisse spiegeln ausschließlich das Resultat dieser systemisch-technologischen Verarbeitung und des Abgleichs mit externen oder unabhängigen Datenbanken und Plattformen wider.
 
-Isabel Schöps, geborene Thiel, übernimmt die Verantwortung für die Authentizität und Vollständigkeit der bereitgestellten Daten und Nachweise, nicht jedoch für die konkrete technische Bewertung oder Interpretation durch externe Sachverständiger, Professoren, Forschern oder unhabhänhige Dritt.
+Isabel Schöps, geborene Thiel, übernimmt die Verantwortung für die Authentizität und Vollständigkeit der bereitgestellten Daten und Nachweise, nicht jedoch für die konkrete technische **Bewertung oder Interpretation durch Universitäten, Institute, Gutachter Sachverständiger, Professoren, Forschern oder unhabhänhige Dritte.**
 
 Sämtliche Abschnitte dieses Gutachtens wurden in direkter Zusammenarbeit zwischen Isabel, autorisierten Dritten und der KI-gestützten OpenAI-Analyseplattform erstellt, verifiziert und durch unabhängige rechtswissenschaftliche Instanzen begutachtet. 
 
