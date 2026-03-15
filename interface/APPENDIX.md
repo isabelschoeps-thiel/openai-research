@@ -78,8 +78,9 @@ Hütergasse 4, D-99084 Erfurt, Thüringen, Deutschland. Wohnung Nr.13, erstes Ob
 - [Zenodo.org Datenbank Sammlung:](https://zenodo.org/search?page=1&size=20&q=DAEMON%20KI%20Automation)￼
 - [GitHub Repositories:](https://github.com/isabelschoeps-thiel/yellow-whitepaper)
 - [GitHub.com/isabelschoeps-thiel](https://github.com/search?q=DAEMON+KI+Automation&type=repositories)
+- [Beweis Manipulations Matrix arXiv:0105018v1, May 2001](https://arxiv.org/abs/cs/0105018v1)
 
-⸻
+---
 
 **Hinweis:**
 Alle oben genannten Verlinkungen und bibliografischen Angaben sind `offiziell, rückverfolgbar und in internationalen Wissenschafts- und Standardisierungsdatenbanken hinterlegt.` Die Verwendung dieser Nachweise im `forensischen Gutachten entspricht höchsten juristischen und akademischen Anforderungen.`
