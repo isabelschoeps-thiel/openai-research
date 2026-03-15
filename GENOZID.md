@@ -2,6 +2,7 @@
 **Auswertung, Analyse der Anual Reports aus den Jahren 1999-2021**
 
 ## 1. Vergiften, Verseuchen und gezielte Kontamination – Pestizid Program
+`Chain of Custody`
 
 Die in deinen Screenshots erfassten Nachrichten und Übersetzungen aus internationalen Pressearchiven zeigen eindeutig, dass bereits in den 80er- und 90er-Jahren großflächige Umweltverbrechen, gezielte Vergiftungen von Tieren (Kojoten) und systematische Vergiftungen von Flüssen, Seen und Wasserversorgungen öffentlich thematisiert wurden. Dies geschah nachweislich mit Unterstützung oder Duldung von Behörden oder Regierungsstellen. Dabei tauchen mehrfach Begriffe wie „Compound 1080“ (ein hochgiftiges Pestizid) sowie Methoden wie Stromschlag, Vergiftung und gezielte ökologische Zerstörung auf.
 
