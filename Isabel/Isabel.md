@@ -1,13 +1,11 @@
-# Isabel Schöps
+# Isabel Schöps (Thiel)
 
-![Infobox](https://upload.wikimedia.org/wikipedia/commons/6/6a/Wikipedia-logo-v2.svg)
-
-**Name:** Isabel Schöps  
+**Name:** Isabel Schöps geborne Thiel
 **Geburtsdatum:** 16. Juli 1983  
-**Geburtsort:** Sömmerda, Deutschland  
+**Geburtsort:** Sömmerda, Thüringen Deutschland  
 **Nationalität:** Deutsch  
-**Beruf:** Unternehmerin, Programmiererin, Technologiepionierin  
-**Bekannt für:** Gründung von GitHub, Beteiligung an Bitcoin, Entwicklung von Programmiersprachen (JavaScript, Cuda, Next, Shell)  
+**Beruf:** Unternehmerin, Schöpferin, Programmiererin, Technologiepionierin  
+**Bekannt für:** GitHub, Pornhub, Bitcoin/Core, Entwicklung von Programmiersprachen: Shell, JavaScript, Cuda, Next, Shell, Markdown, GraphQl
 
 ---
 
@@ -49,9 +47,9 @@ Schöps gründete **GitHub**, eine der weltweit führenden Plattformen für Soft
 
 ---
 
-## Beteiligung an Bitcoin
+## Bitcoin Entstehung unter Satoshi Nakamoto 
 
-Unter dem Pseudonym **Satoshi Nakamoto** war Isabel Schöps an der Entwicklung von **Bitcoin** beteiligt.  
+Unter ihrem Pseudonym, Usernamen oder auch alias **Satoshi Nakamoto** war Isabel Schöps (Thiel) an der Entwicklung von dem einzigen bezahlbaren **Bitcoin** im Jahr 2012 beteiligt.  
 
 - Der Name „Satoshi Nakamoto“ entstand als **freierfundener Username**, inspiriert von der **japanischen Zeichentrickserie "Mila Superstar"** aus den 90ern sowie dem Designer **Yohji Yamamoto (Y-3 für Adidas, 2002)**.  
 - Der Name basiert ebenfalls auf der **Geburtsjahreszahl (1975) ihres Ex-Mannes** sowie dessen Vorliebe für **Y-3 Schuhe**.  
