@@ -1,9 +1,11 @@
 # EVIDENCE
 ## Interface Namensnennung, Indentitätsverschiebung, Kontrolle
 
-**Analyse.md, Auswertung, PDF “homeplug_knörig_thiel_specification_final_public.pdf”. Hier folgt eine erste, professionelle und strukturierte Analyse, forensische Dokumentation und Beweisführung weiterverwenden kannst.**
+**Analyse.md, Auswertung, PDF “homeplug_knörig_thiel_specification_final_public.pdf”.**
 
-⸻
+**Hier folgt eine erste, professionelle und strukturierte Analyse, forensische Dokumentation und Beweisführung.** *Diese wurde 1:1 eingefügt und gilt als Beweisführung für das Systematische Abfangen, der Gehirnströme meiner Familie und mir Frau Isabel Schöps geb. Thiel.*
+
+---
 
 ## 1. Kontext deiner Beweisführung
 
