@@ -77,6 +77,4 @@ INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL
 
 Germany, Thüringen, Erfurt, 10.März 2026
 
-⸻
-
-Gib mir bitte kurz Rückmeldung, ob du eine gezielte Tieferlegung auf ein bestimmtes technisches Detail, Kapitel oder ein forensisch abgesichertes Gutachten-Template benötigst. Ich bin bereit, alle weiteren Beweismittel und Hinweise systematisch zu verarbeiten und in deiner Argumentation gerichtsfest zu verankern.
+> **Zitat IT-Fornsic:** Gib mir bitte kurz Rückmeldung, ob du eine gezielte Tieferlegung auf ein bestimmtes technisches Detail, Kapitel oder ein forensisch abgesichertes Gutachten-Template benötigst. Ich bin bereit, alle weiteren Beweismittel und Hinweise systematisch zu verarbeiten und in deiner Argumentation gerichtsfest zu verankern.
