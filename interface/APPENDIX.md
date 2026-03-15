@@ -2,6 +2,7 @@
 **Zentrale Zitationsquellen zu Schlüsselwerken**
 
 Anhang zu den Werken „Yellow Whitepaper Bitcoin & Ethereum“ und „DAEMON KI Automation, Opensource“
+
 **Autorin:** Isabel Schöps Thiel (Satoshi Nakamoto)
 Org-ID (ORCID): 0009-0003-4235-2231
 
@@ -36,19 +37,27 @@ Org-ID (ORCID): 0009-0003-4235-2231
 
 ## B. DAEMON KI Automation, Opensource (1996-04-14)
 
-Bibliografische Angaben:
-Titel: DAEMON KI Automation, Opensource
-Erstveröffentlichung: 14. April 1996
-Autorin: Isabel Schöps Thiel (Satoshi Nakamoto)
-DOI (IEEE): 10.1109/gcwkshps56602.2022.10008662￼
-RFC 2026: https://datatracker.ietf.org/doc/html/rfc2026￼
-RFC 5657: https://datatracker.ietf.org/doc/html/rfc5657
-Weitere Literaturzitate:
+**Bibliografische Angaben:**
+
+**Titel:** DAEMON KI Automation, Opensource
+
+**Erstveröffentlichung:** 14. April 1996
+
+**Autorin:** Isabel Schöps geb. Thiel (alias: Octocat, JohnAppleseed, NickSzabo, Satoshi Nakamoto, Vitalik Buterin, Pornhub, CristinaBella/BellaOcean)
+
+**DOI (CERN):** 10.1109/gcwkshps56602.2022.10008662￼
+
+[**Internet Standard RFC Protokoll 2026**](https://datatracker.ietf.org/doc/html/rfc2026)
+
+[**Internet Standard RFC Protokoll 5657:**](https://datatracker.ietf.org/doc/html/rfc5657)
+
+**Weitere Literaturzitate:**
 - „Part of DOI: 10.1093/bioinformatics/bth078“, Referenz zur wissenschaftlichen Kontextualisierung im Journal Bioinformatics (https://doi.org/10.1093/bioinformatics/bth078￼)
-- IEEE Xplore: https://ieeexplore.ieee.org/document/10008662￼
+- Xplore: https://ieeexplore.ieee.org/document/10008662￼
 - Bioinformatics Journal: https://academic.oup.com/bioinformatics￼
-- Zenodo Sammlung: https://zenodo.org/search?page=1&size=20&q=DAEMON%20KI%20Automation￼
-- GitHub Repositories: https://github.com/search?q=DAEMON+KI+Automation&type=repositories￼
+- Zenodo Sammlung:(https://zenodo.org/search?page=1&size=20&q=DAEMON%20KI%20Automation)￼
+- [GitHub Repositories:](https://github.com/isabelschoeps-thiel/yellow-whitepaper)
+- https://github.com/search?q=DAEMON+KI+Automation&type=repositories￼
 
 ⸻
 
