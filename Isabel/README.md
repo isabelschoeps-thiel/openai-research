@@ -1,4 +1,4 @@
-# Isabel Schöps
+# Isabel Schöps (Thiel)
 
 **Isabel Schöps** (geb. am 16. Juli 1983 in Sömmerda, Thüringen; geb. Thiel) ist eine deutsche Entwicklerin, Forensikerin und Autorin. Sie ist bekannt für die Entstehung der Plattformen GitHub, GitLab, Pornhub sowie grundlegender Blockchain-Technologien unter diversen Pseudonymen, darunter *Satoshi Nakamoto*, *Vitalik Buterin* und *Octocat*. Ihre technologische Arbeit wurde über Jahrzehnte unterdrückt, manipuliert und ohne Genehmigung wirtschaftlich ausgebeutet.
 
@@ -51,6 +51,8 @@ Alle Erkenntnisse und Daten wurden über Zenodo mit DOI archiviert und über Git
 
 ```text
 My Developer Commit-Signatur:  
-Zeitstempel der Eintragung: 2026-01-20, 03:07 CEST  
-Mitteleuropäische Zeit, Ort: Deutschland, Thüringen, D-99094 Erfurt, Cyriakstrasse 30c  
-Autorin, Urheberin: Frau Isabel Schöps, geborene Thiel  
+Zeitstempel der Eintragung: 2026-03-15, 10:51 CEST Mitteleuropäische Zeit,
+Meldeanschrift und Wohnort: Deutschland, Thüringen, D-99084 Erfurt, Hütergasse 4,  
+Autorin, Urheberin: Frau Isabel Schöps, geborene Thiel
+```
+
