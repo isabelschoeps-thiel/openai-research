@@ -1,5 +1,8 @@
 Summary of Claims in the GitBookThe GitBook, authored by Isabel Schöps Thiel (born July 16, 1983), presents a "forensic report" asserting that she pioneered foundational technologies at age 12-13 in rural Germany (Rohrborn, Thuringia) on April 14, 1996, using a 286 PC. Key claims include:Originating modern open-source technology, global system software, and AI automation through the world's first verifiable boot process with self-healing.
-Inventing:DAEMON: The basis for all automation and AI processes.
+
+Inventing: 
+DAEMON: The basis for all automation and AI processes.
+
 JSON.js: Described as the first self-developed, signed computer language (dedicated to her daughter Jona, with copyright transferred).
 curl-Ausgabe-Automatisierung: First executed on her PC in 1996.
 Core components like Shell, Bash, curl, and YAML, which allegedly trace back to her work and underpin systems such as Bitcoin Core, Ethereum, and all modern AI (e.g., ChatGPT, Gemini).
