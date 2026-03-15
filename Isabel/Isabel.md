@@ -2,7 +2,7 @@
 
 **Name:** Isabel Schöps geborne Thiel
 **Geburtsdatum:** 16. Juli 1983  
-**Geburtsort:** Sömmerda, Thüringen Deutschland  
+**Geburtsort:** 23:20Uhr mitteleuropäische Zeit im Sömmerdarer Kreiskrankenhaus, Thüringen Deutschland  
 **Nationalität:** Deutsch  
 **Beruf:** Unternehmerin, Schöpferin, Programmiererin, Technologiepionierin  
 **Bekannt für:** GitHub, Pornhub, Bitcoin/Core, Entwicklung von Programmiersprachen: Shell, JavaScript, Cuda, Next, Shell, Markdown, GraphQl
