@@ -1,21 +1,25 @@
 # Appendix
 **Zentrale Zitationsquellen zu Schlüsselwerken**
 
-Anhang zu den Werken „Yellow Whitepaper Bitcoin & Ethereum“ und „DAEMON KI Automation, Opensource“
+## A. The Yellow Whitepaper Bitcoin & Ethereum (2025, 2026) 
+*Anhang zu dem Werken „SIA Security Intelligence Artefact", „The Yellow Whitepaper Bitcoin & Ethereum“ und „DAEMON KI Automation, Opensource“ 
 
-**Autorin:** Isabel Schöps Thiel (Satoshi Nakamoto)
-Org-ID (ORCID): 0009-0003-4235-2231
-
-⸻
-
-## A. The Yellow Whitepaper Bitcoin & Ethereum (2019)
 **Bibliografische Angaben**
 
-**Titel:** Yellow Whitepaper Bitcoin & Ethereum
+**Titel:** The Yellow Whitepaper, `YWP-1-IST-SIA` Bitcoin & Ethereum, 
 
 **Jahr:** 2019, 2025, 2026
 
 **ISBN:** 9781999675929
+
+**Autorin, Schöpferin/Entwicklerin, Urheberin:** Frau Isabel Schöps (Thiel) ist am 16.07.1983, um 23:20 Uhr im Kreiskrankenhaus, Sömmerda, Thüringen, Deutschland mit ihren Familiennamen Thiel geboren.
+
+**Aktuelle Wohn- und Meldeanschrift:**
+Hütergasse 4, D-99084 Erfurt, Thüringen, Deutschland. Wohnung Nr.13, erstes Obergeschoss
+
+**ORCID:** [Isabel Schöps Thiel: Satoshi Nakamoto) (ORCID): 0009-0003-4235-2231](https://orcid.org/0009-0003-4235-2231)
+
+---
 
 **Autorin:** Isabel Schöps Thiel (Satoshi Nakamoto)
 
