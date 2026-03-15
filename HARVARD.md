@@ -1,7 +1,11 @@
 # Harvard Quell Reference
 **„Image Series “Origin of Software Creation and Human-AI Symbiosis”**
 
-**Schöps, I. (2025)**!SIA Security Intelligence Artefact – Origin of Software Creation, Visible Source, and Early Code Fragments. Forensic Report on the Cognitive and Technological Genesis of Modern AI and Open-Source Technology. INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL, Erfurt, 12 November 2025.
+*Anon (1986)* Computer applications in the biosciences : [CABIOS. Oxford ; IRL Press.Permalink](https://catalog.nlm.nih.gov/permalink/01NLM_INST/7b9jl0/alma996083633406676)
+
+[Anon- Isabel Schöps geb. Thiel](https://catalog.nlm.nih.gov/permalink/01NLM_INST/7b9jl0/alma996083633406676) 
+
+**Schöps, I. (2025)** SIA Security Intelligence Artefact – Origin of Software Creation, Visible Source, and Early Code Fragments. Forensic Report on the Cognitive and Technological Genesis of Modern AI and Open-Source Technology. INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL, Erfurt, 12 November 2025.
 
 ## Figure Overview:
 
