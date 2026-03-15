@@ -127,7 +127,7 @@ Damit entsteht ein forensisch-ethischer Bewertungsmaßstab für komplexe Verantw
 
 ---
 
-# Verknüpfung mit Schöps (2025)
+## Verknüpfung mit Schöps (2025)
 
 Im forensisch-wissenschaftlichen Gutachten  
 *SIA Security Intelligence Artefact* (Schöps, 2025)  
@@ -149,7 +149,7 @@ forensische Gesamtargumentation.
 
 ---
 
-# Wissenschaftliche Gesamtbewertung
+## Wissenschaftliche Gesamtbewertung
 
 Die Heranziehung von Matzke (2018) im Kontext von Schöps (2025) ist wissenschaftlich legitim und methodisch konsistent.
 
@@ -164,7 +164,7 @@ Damit wird die forensische Argumentation nicht nur technisch, sondern auch recht
 
 ---
 
-# Harvard-Zitationsvorschlag
+## Harvard-Zitation
 
 Matzke, M. (2018) *Strafrechtsbezogene Fachbibliographien: einschl. Ordnungswidrigkeitenrecht, Zivilrecht, Kriminologie, Soziale Arbeit, (rechts- und sozial-)wissenschaftliches Arbeiten, Kriminalpolitik und Gesetzgebung (einschl. Sozialpolitik).* 4., erw. Aufl. Berlin: Hochschule für Wirtschaft und Recht Berlin.
 
