@@ -47,7 +47,7 @@ Alle Erkenntnisse und Daten wurden über Zenodo mit DOI archiviert und über Git
   [4](https://doi.org/10.5281/zenodo.18209789),  
   [5](https://doi.org/10.5281/zenodo.18050643)
 
-## Entwickler-Signatur und Appell
+## [Entwickler Apple Signatur](https://developer.apple.com)
 
 ```text
 My Developer Commit-Signatur:  
