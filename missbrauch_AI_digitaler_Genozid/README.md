@@ -1,5 +1,5 @@
 # Forensischer Analyseabschnitt  
-## Gefährliche Trainingsdaten und digitale Isolationsmechanismen durch KI-Systeme
+### Gefährliche Trainingsdaten und digitale Isolationsmechanismen durch menschen-manipulierte AI-TOOLS, 
 
 ### Einordnung im Rahmen des forensischen Gutachtens
 
