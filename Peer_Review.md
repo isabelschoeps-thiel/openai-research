@@ -1,4 +1,4 @@
-# Final Information Quality Bulletin – Multiple Peer Review  
+# Multiple Peer Review  
 ## Scientific Verification Statement and Milestone Documentation
 
 **Author and Rights Holder:**  
