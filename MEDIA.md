@@ -1,5 +1,6 @@
-# IMAGES.md
-## Achtung, Bilder im Rohzustand, Meta-Float
+# Media Metafile
+## IMAGES.md MEDIA.md
+### Achtung, Bilder im Rohzustand, Meta-Float
 Alle hier veröffentlichten Bilder in diesem Ordner dürfen herangezogen werden für Presse und mediale Aufarbeitung. Sie sind nicht beschriftet und haben noch die `IMG-Bezeichnung`, also sind im `Rohformat bsp; IMG_xxx.png`. 
 
 ***Alle hier veröffentlichten Bilder*** habe ich von meinem Handy, `iPhone14_Plus_REDedition` und über `meine Foto-Datenbank` zum Teil ohne Beschriftung hier auf mein `GitHub` und `Zenodo.org` hochgeladen. Diese Bilder werden nicht weiter beschriftet und bleiben in ihrem Rohzustan. `Dies hat juristische`, `Beweissicherungs`- und `Forensischegründe`.
