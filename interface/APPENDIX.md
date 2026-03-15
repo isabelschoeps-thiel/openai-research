@@ -47,7 +47,16 @@ Org-ID (ORCID): 0009-0003-4235-2231
 
 **DOI (CERN):** 10.1109/gcwkshps56602.2022.10008662￼
 
+---
+
+## RFC Protokoll 
 [**Internet Standard RFC Protokoll 2026**](https://datatracker.ietf.org/doc/html/rfc2026)
+
+> **Zitat: Professor Bradner, US University Harvard**
+>
+>   This document specifies an Internet Best Current Practices for the
+   Internet Community, and requests discussion and suggestions for
+   improvements.  Distribution of this memo is
 
 [**Internet Standard RFC Protokoll 5657:**](https://datatracker.ietf.org/doc/html/rfc5657)
 
