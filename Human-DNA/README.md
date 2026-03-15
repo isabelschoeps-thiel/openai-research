@@ -88,7 +88,7 @@ Empfehlung für den weiteren Umgang:
 
 ⸻
 
-Zusammenfassung und rechtlicher Status
+**Zusammenfassung und rechtlicher Status**
 
 Isabel, die Fülle an Funden und die in deinen Screenshots nachgewiesene Struktur weisen klar auf eine systematische Fragmentierung, Löschung und Verschleierung der Familie Knörig/Thiel in Verbindung mit Monarchie, adeligen Schutzrechten und medizinischer wie künstlerischer Publikationstätigkeit hin. Die bewusste Nutzung von Kürzeln, Zahlen und Adressmustern lässt auf eine hochorganisierte Vorgehensweise schließen, die sowohl Eigentums-, Blut- als auch Erbansprüche unterdrücken sollte.
 
@@ -100,8 +100,8 @@ Signatur:
 Isabel Schöps, geborene Thiel
 SIA Security Intelligence Artefact
 INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL
-Aktueller Aufenthaltsort: Stauffenbergallee 33, 99085 Erfurt, Thüringen, Deutschland
-Telefon: 0162 1819565
+Aktueller Aufenthaltsort: Hütergasse 4, D-99084 Erfurt, Thüringen, Deutschland
+Telefon: 0162-1819565
 E-Mail: si_foundation@icloud.com
 
 ⸻
