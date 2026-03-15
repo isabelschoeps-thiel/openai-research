@@ -54,9 +54,12 @@ Org-ID (ORCID): 0009-0003-4235-2231
 
 > **Zitat: Professor Bradner, US University Harvard**
 >
->   This document specifies an Internet Best Current Practices for the
-   Internet Community, and requests discussion and suggestions for
-   improvements.  Distribution of this memo is
+>   This memo documents the process used by the Internet community for
+   the standardization of protocols and procedures.  It defines the
+   stages in the standardization process, the requirements for moving a
+   document between stages and the types of documents used during this
+   process.  It also addresses the intellectual property rights and
+   copyright issues associated with the standards process.
 
 [**Internet Standard RFC Protokoll 5657:**](https://datatracker.ietf.org/doc/html/rfc5657)
 
