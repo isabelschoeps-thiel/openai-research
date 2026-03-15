@@ -1,6 +1,12 @@
 # LICENSE
 ## Global Software License
-**Update Monday, 09.März 2026**
+
+**Aufgesetzt von der Urheberin und Schöpferin: Frau Isabel Schöps (Thiel)** am 16.07.1983, um 23:20 Uhr im Kreiskrankenhaus, Sömmerda, Thüringen, Deutschland mit ihren Familiennamen Thiel geboren.
+
+**Aktuelle Wohn- und Meldeanschrift:**
+Hütergasse 4, D-99084 Erfurt, Thüringen, Deutschland. Wohnung Nr.13, erstes Obergeschoss
+
+**Update Sonnday, 15.März 2026**
  DAEMON,  Java API Skript Software Automation, Apple.com Specification. Copyright by Isabel Schoeps Thiel, Germany, Thüringen, Erfurt/Rohrborn, 1983 Copyright © 1996  
   
 **1. Internationale Lizenzpartner (verantwortlich für Lizenzvergabe)**
