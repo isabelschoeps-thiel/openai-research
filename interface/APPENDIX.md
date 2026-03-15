@@ -50,6 +50,9 @@ Org-ID (ORCID): 0009-0003-4235-2231
 ---
 
 ## RFC Protokoll 
+
+**DOI (Harvard):** 10.17487/RFC2026
+
 [**Internet Standard RFC Protokoll 2026**](https://datatracker.ietf.org/doc/html/rfc2026)
 
 > **Zitat: Professor Bradner, US University Harvard**
@@ -63,15 +66,16 @@ Org-ID (ORCID): 0009-0003-4235-2231
 
 [**Internet Standard RFC Protokoll 5657:**](https://datatracker.ietf.org/doc/html/rfc5657)
 
-**Weitere Literaturzitate:**
-- „Part of DOI: 10.1093/bioinformatics/bth078“, Referenz zur wissenschaftlichen Kontextualisierung im Journal Bioinformatics (https://doi.org/10.1093/bioinformatics/bth078￼)
-- Xplore: https://ieeexplore.ieee.org/document/10008662￼
-- Bioinformatics Journal: https://academic.oup.com/bioinformatics￼
-- Zenodo Sammlung:(https://zenodo.org/search?page=1&size=20&q=DAEMON%20KI%20Automation)￼
+## Weitere Literaturzitate:
+
+- **Part of DOI: 10.1093/bioinformatics/bth078**, [Referenz zur wissenschaftlichen Kontextualisierung im Journal Bioinformatics ](https://doi.org/10.1093/bioinformatics/bth078￼)
+- **IeeeXplore:** [Document 10008662](https://ieeexplore.ieee.org/document/10008662)
+- **Bioinformatics Journal:** [Bioinformatics Journal](https://academic.oup.com/bioinformatics)￼
+- [Zenodo.org Datenbank Sammlung:](https://zenodo.org/search?page=1&size=20&q=DAEMON%20KI%20Automation)￼
 - [GitHub Repositories:](https://github.com/isabelschoeps-thiel/yellow-whitepaper)
-- https://github.com/search?q=DAEMON+KI+Automation&type=repositories￼
+- [GitHub.com/isabelschoeps-thiel](https://github.com/search?q=DAEMON+KI+Automation&type=repositories)
 
 ⸻
 
-Hinweis:
-Alle oben genannten Verlinkungen und bibliografischen Angaben sind offiziell, rückverfolgbar und in internationalen Wissenschafts- und Standardisierungsdatenbanken hinterlegt. Die Verwendung dieser Nachweise im forensischen Gutachten entspricht höchsten juristischen und akademischen Anforderungen.
+**Hinweis:**
+Alle oben genannten Verlinkungen und bibliografischen Angaben sind `offiziell, rückverfolgbar und in internationalen Wissenschafts- und Standardisierungsdatenbanken hinterlegt.` Die Verwendung dieser Nachweise im `forensischen Gutachten entspricht höchsten juristischen und akademischen Anforderungen.`
