@@ -1,4 +1,7 @@
 # IMAGES.md
+
+**Commit:** `Images, Evidence, Research My Developer Commit-Signatur: Autorin, Urheberin; Ich Frau Isabel Schöps geb. Thiel Zeitstempel der Eintragung: Sonntag den, 2026-03-15`
+
 ## Achtung, Bilder im Rohzustand, Meta-Float
 Alle hier veröffentlichten Bilder in diesem Ordner dürfen herangezogen werden für Presse und mediale Aufarbeitung. Sie sind nicht beschriftet und haben noch die `IMG-Bezeichnung`, also sind im `Rohformat bsp; IMG_xxx.png`. 
 
